@@ -1,0 +1,4436 @@
+fileFormatVersion: 2
+guid: a551fd53034b21544b8ff5c71774aeda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8543170235283618046
+    second: Neutral (15x8)_alpha_0
+  - first:
+      213: -6118758198132844288
+    second: Neutral (15x8)_alpha_1
+  - first:
+      213: 2106933691871756487
+    second: Neutral (15x8)_alpha_2
+  - first:
+      213: -3445728987233017616
+    second: Neutral (15x8)_alpha_3
+  - first:
+      213: 8964102734583228251
+    second: Neutral (15x8)_alpha_4
+  - first:
+      213: -1732473585590367984
+    second: Neutral (15x8)_alpha_5
+  - first:
+      213: 8193085269926040711
+    second: Neutral (15x8)_alpha_6
+  - first:
+      213: 6422435904641391642
+    second: Neutral (15x8)_alpha_7
+  - first:
+      213: 2090149165437864761
+    second: Neutral (15x8)_alpha_8
+  - first:
+      213: 184369223520872987
+    second: Neutral (15x8)_alpha_9
+  - first:
+      213: 2762474925917559082
+    second: Neutral (15x8)_alpha_10
+  - first:
+      213: -7132546343969785729
+    second: Neutral (15x8)_alpha_11
+  - first:
+      213: 8010499269041702298
+    second: Neutral (15x8)_alpha_12
+  - first:
+      213: 6218536672937527710
+    second: Neutral (15x8)_alpha_13
+  - first:
+      213: -2199001534639975089
+    second: Neutral (15x8)_alpha_14
+  - first:
+      213: -7761491420601972553
+    second: Neutral (15x8)_alpha_15
+  - first:
+      213: 6358660134515814902
+    second: Neutral (15x8)_alpha_16
+  - first:
+      213: 1909110516065434977
+    second: Neutral (15x8)_alpha_17
+  - first:
+      213: 9183094755433705240
+    second: Neutral (15x8)_alpha_18
+  - first:
+      213: -5945516124914568965
+    second: Neutral (15x8)_alpha_19
+  - first:
+      213: -8761810419019307295
+    second: Neutral (15x8)_alpha_20
+  - first:
+      213: -2386518551324606808
+    second: Neutral (15x8)_alpha_21
+  - first:
+      213: -4097241790556876161
+    second: Neutral (15x8)_alpha_22
+  - first:
+      213: -335732088444375613
+    second: Neutral (15x8)_alpha_23
+  - first:
+      213: 1086840006876294051
+    second: Neutral (15x8)_alpha_24
+  - first:
+      213: -8083868528157744432
+    second: Neutral (15x8)_alpha_25
+  - first:
+      213: 884130040634319447
+    second: Neutral (15x8)_alpha_26
+  - first:
+      213: -4945561457213661089
+    second: Neutral (15x8)_alpha_27
+  - first:
+      213: -5890575208657272135
+    second: Neutral (15x8)_alpha_28
+  - first:
+      213: 5977187704014376200
+    second: Neutral (15x8)_alpha_29
+  - first:
+      213: -2608224649904026434
+    second: Neutral (15x8)_alpha_30
+  - first:
+      213: 2185087855860828551
+    second: Neutral (15x8)_alpha_31
+  - first:
+      213: 5710724473630803471
+    second: Neutral (15x8)_alpha_32
+  - first:
+      213: -2444413304236434373
+    second: Neutral (15x8)_alpha_33
+  - first:
+      213: -4559796982154021720
+    second: Neutral (15x8)_alpha_34
+  - first:
+      213: -1509487882150369556
+    second: Neutral (15x8)_alpha_35
+  - first:
+      213: 1955529604068331224
+    second: Neutral (15x8)_alpha_36
+  - first:
+      213: 8636907392145660749
+    second: Neutral (15x8)_alpha_37
+  - first:
+      213: -8259839078576138915
+    second: Neutral (15x8)_alpha_38
+  - first:
+      213: -8423089538425536782
+    second: Neutral (15x8)_alpha_39
+  - first:
+      213: 4283160031760445948
+    second: Neutral (15x8)_alpha_40
+  - first:
+      213: -7199672332289589228
+    second: Neutral (15x8)_alpha_41
+  - first:
+      213: -2598384385541019463
+    second: Neutral (15x8)_alpha_42
+  - first:
+      213: -3156679500051691764
+    second: Neutral (15x8)_alpha_43
+  - first:
+      213: 3259932258400289049
+    second: Neutral (15x8)_alpha_44
+  - first:
+      213: -2797522424057947190
+    second: Neutral (15x8)_alpha_45
+  - first:
+      213: 1965891371406316903
+    second: Neutral (15x8)_alpha_46
+  - first:
+      213: -5875630952856553852
+    second: Neutral (15x8)_alpha_47
+  - first:
+      213: -2479780438496551874
+    second: Neutral (15x8)_alpha_48
+  - first:
+      213: 1628090635150623434
+    second: Neutral (15x8)_alpha_49
+  - first:
+      213: -7565390771890509002
+    second: Neutral (15x8)_alpha_50
+  - first:
+      213: 2846794950225075349
+    second: Neutral (15x8)_alpha_51
+  - first:
+      213: 2719141121229117374
+    second: Neutral (15x8)_alpha_52
+  - first:
+      213: 5091417463168731138
+    second: Neutral (15x8)_alpha_53
+  - first:
+      213: 8805653538609953445
+    second: Neutral (15x8)_alpha_54
+  - first:
+      213: 1383668533010677566
+    second: Neutral (15x8)_alpha_55
+  - first:
+      213: -3179331657077033743
+    second: Neutral (15x8)_alpha_56
+  - first:
+      213: 5891387701794185754
+    second: Neutral (15x8)_alpha_57
+  - first:
+      213: 4753962497677015266
+    second: Neutral (15x8)_alpha_58
+  - first:
+      213: 2498622949864925102
+    second: Neutral (15x8)_alpha_59
+  - first:
+      213: 3806707004770380208
+    second: Neutral (15x8)_alpha_60
+  - first:
+      213: 221575678544151944
+    second: Neutral (15x8)_alpha_61
+  - first:
+      213: 9144355820479936804
+    second: Neutral (15x8)_alpha_62
+  - first:
+      213: -6001839133325535494
+    second: Neutral (15x8)_alpha_63
+  - first:
+      213: -6490897863530790613
+    second: Neutral (15x8)_alpha_64
+  - first:
+      213: -3025644958222225313
+    second: Neutral (15x8)_alpha_65
+  - first:
+      213: -6852860534381637887
+    second: Neutral (15x8)_alpha_66
+  - first:
+      213: 1085891425211554148
+    second: Neutral (15x8)_alpha_67
+  - first:
+      213: 2273403664554547401
+    second: Neutral (15x8)_alpha_68
+  - first:
+      213: -1067424889553718412
+    second: Neutral (15x8)_alpha_69
+  - first:
+      213: 1526689566314443085
+    second: Neutral (15x8)_alpha_70
+  - first:
+      213: -1754661348040109672
+    second: Neutral (15x8)_alpha_71
+  - first:
+      213: 4321480746300957732
+    second: Neutral (15x8)_alpha_72
+  - first:
+      213: -2727940850699619927
+    second: Neutral (15x8)_alpha_73
+  - first:
+      213: 3116862808269830284
+    second: Neutral (15x8)_alpha_74
+  - first:
+      213: 1820237143000718471
+    second: Neutral (15x8)_alpha_75
+  - first:
+      213: 3707144629818847857
+    second: Neutral (15x8)_alpha_76
+  - first:
+      213: 4017002205929382354
+    second: Neutral (15x8)_alpha_77
+  - first:
+      213: -1505859626036241853
+    second: Neutral (15x8)_alpha_78
+  - first:
+      213: 6039986250028460690
+    second: Neutral (15x8)_alpha_79
+  - first:
+      213: -7574449105143888722
+    second: Neutral (15x8)_alpha_80
+  - first:
+      213: 8160862967242604592
+    second: Neutral (15x8)_alpha_81
+  - first:
+      213: 4899742049367123570
+    second: Neutral (15x8)_alpha_82
+  - first:
+      213: -4332031865778261932
+    second: Neutral (15x8)_alpha_83
+  - first:
+      213: -6608320542994152314
+    second: Neutral (15x8)_alpha_84
+  - first:
+      213: 4052496896276713590
+    second: Neutral (15x8)_alpha_85
+  - first:
+      213: 7272897146356825344
+    second: Neutral (15x8)_alpha_86
+  - first:
+      213: 2787506694318723723
+    second: Neutral (15x8)_alpha_87
+  - first:
+      213: -265842932354225333
+    second: Neutral (15x8)_alpha_88
+  - first:
+      213: -3812958830156191987
+    second: Neutral (15x8)_alpha_89
+  - first:
+      213: -8905799231460027602
+    second: Neutral (15x8)_alpha_90
+  - first:
+      213: -1095865786892792494
+    second: Neutral (15x8)_alpha_91
+  - first:
+      213: -3445182817737519155
+    second: Neutral (15x8)_alpha_92
+  - first:
+      213: -6682484598673628199
+    second: Neutral (15x8)_alpha_93
+  - first:
+      213: 1079073654215450454
+    second: Neutral (15x8)_alpha_94
+  - first:
+      213: 6358137760620076972
+    second: Neutral (15x8)_alpha_95
+  - first:
+      213: 7166720113291798630
+    second: Neutral (15x8)_alpha_96
+  - first:
+      213: 3105104170336050978
+    second: Neutral (15x8)_alpha_97
+  - first:
+      213: -2083849479274245936
+    second: Neutral (15x8)_alpha_98
+  - first:
+      213: -8694853201438196186
+    second: Neutral (15x8)_alpha_99
+  - first:
+      213: 1753857723814023543
+    second: Neutral (15x8)_alpha_100
+  - first:
+      213: -8734398750795267087
+    second: Neutral (15x8)_alpha_101
+  - first:
+      213: -8705060346010706236
+    second: Neutral (15x8)_alpha_102
+  - first:
+      213: -8754593577425726092
+    second: Neutral (15x8)_alpha_103
+  - first:
+      213: 7768042730365952565
+    second: Neutral (15x8)_alpha_104
+  - first:
+      213: -431936305327676231
+    second: Neutral (15x8)_alpha_105
+  - first:
+      213: -4737268618490666615
+    second: Neutral (15x8)_alpha_106
+  - first:
+      213: 3070066492582319565
+    second: Neutral (15x8)_alpha_107
+  - first:
+      213: 9207439951326052245
+    second: Neutral (15x8)_alpha_108
+  - first:
+      213: 6753370625211157157
+    second: Neutral (15x8)_alpha_109
+  - first:
+      213: -6102121929283599221
+    second: Neutral (15x8)_alpha_110
+  - first:
+      213: -6456849662220476102
+    second: Neutral (15x8)_alpha_111
+  - first:
+      213: -5997203465455575803
+    second: Neutral (15x8)_alpha_112
+  - first:
+      213: 2230598021295911484
+    second: Neutral (15x8)_alpha_113
+  - first:
+      213: 2375633662412321267
+    second: Neutral (15x8)_alpha_114
+  - first:
+      213: 3504705325257852606
+    second: Neutral (15x8)_alpha_115
+  - first:
+      213: -2996837577645510374
+    second: Neutral (15x8)_alpha_116
+  - first:
+      213: -3926533971709522085
+    second: Neutral (15x8)_alpha_117
+  - first:
+      213: -3008286633998675189
+    second: Neutral (15x8)_alpha_118
+  - first:
+      213: -2045383364857800716
+    second: Neutral (15x8)_alpha_119
+  - first:
+      213: -2641249738328193363
+    second: Neutral_alpha_0
+  - first:
+      213: 9032801495039887011
+    second: Neutral_alpha_1
+  - first:
+      213: 3066178184473340481
+    second: Neutral_alpha_2
+  - first:
+      213: -2159341935838647799
+    second: Neutral_alpha_3
+  - first:
+      213: 9121481225270849822
+    second: Neutral_alpha_4
+  - first:
+      213: -7687286297357210835
+    second: Neutral_alpha_5
+  - first:
+      213: -4320475297773058216
+    second: Neutral_alpha_6
+  - first:
+      213: -362688585128283572
+    second: Neutral_alpha_7
+  - first:
+      213: -125654869849789322
+    second: Neutral_alpha_8
+  - first:
+      213: -7194723329821067517
+    second: Neutral_alpha_9
+  - first:
+      213: -8044400904305981414
+    second: Neutral_alpha_10
+  - first:
+      213: 6526198922269658571
+    second: Neutral_alpha_11
+  - first:
+      213: 4940169570642394584
+    second: Neutral_alpha_12
+  - first:
+      213: -102114101060515715
+    second: Neutral_alpha_13
+  - first:
+      213: 663202866422604086
+    second: Neutral_alpha_14
+  - first:
+      213: -4378175885861400441
+    second: Neutral_alpha_15
+  - first:
+      213: 2023752105234989928
+    second: Neutral_alpha_16
+  - first:
+      213: 2276379132722799242
+    second: Neutral_alpha_17
+  - first:
+      213: 4789826384131836707
+    second: Neutral_alpha_18
+  - first:
+      213: -1509156726094475129
+    second: Neutral_alpha_19
+  - first:
+      213: -4477259566174455851
+    second: Neutral_alpha_20
+  - first:
+      213: -5784664035130007809
+    second: Neutral_alpha_21
+  - first:
+      213: 930936227338372822
+    second: Neutral_alpha_22
+  - first:
+      213: 3301266904459369158
+    second: Neutral_alpha_23
+  - first:
+      213: -919491325484766569
+    second: Neutral_alpha_24
+  - first:
+      213: -7638795593432635026
+    second: Neutral_alpha_25
+  - first:
+      213: 5808621368523308120
+    second: Neutral_alpha_26
+  - first:
+      213: 5654608925373988501
+    second: Neutral_alpha_27
+  - first:
+      213: 252024497351196025
+    second: Neutral_alpha_28
+  - first:
+      213: -8330396969459224536
+    second: Neutral_alpha_29
+  - first:
+      213: -5929057270859551695
+    second: Neutral_alpha_30
+  - first:
+      213: 6296613791736227001
+    second: Neutral_alpha_31
+  - first:
+      213: -8562410122062585074
+    second: Neutral_alpha_32
+  - first:
+      213: -8943542964128026936
+    second: Neutral_alpha_33
+  - first:
+      213: -2060553775284356027
+    second: Neutral_alpha_34
+  - first:
+      213: -2040622208287167495
+    second: Neutral_alpha_35
+  - first:
+      213: 8954539566086721334
+    second: Neutral_alpha_36
+  - first:
+      213: 6923772940516390176
+    second: Neutral_alpha_37
+  - first:
+      213: 5418958319943471179
+    second: Neutral_alpha_38
+  - first:
+      213: 4997359154963860317
+    second: Neutral_alpha_39
+  - first:
+      213: 2759183074724013376
+    second: Neutral_alpha_40
+  - first:
+      213: -8801764059000773560
+    second: Neutral_alpha_41
+  - first:
+      213: -481329233109983164
+    second: Neutral_alpha_42
+  - first:
+      213: -2567300489506416352
+    second: Neutral_alpha_43
+  - first:
+      213: -8442411169260947378
+    second: Neutral_alpha_44
+  - first:
+      213: 5161492672267834539
+    second: Neutral_alpha_45
+  - first:
+      213: -5729407846578023928
+    second: Neutral_alpha_46
+  - first:
+      213: -1904566167280694103
+    second: Neutral_alpha_47
+  - first:
+      213: -2863293270116785337
+    second: Neutral_alpha_48
+  - first:
+      213: -723575303821845202
+    second: Neutral_alpha_49
+  - first:
+      213: 6952068692799470573
+    second: Neutral_alpha_50
+  - first:
+      213: 3540495856107311313
+    second: Neutral_alpha_51
+  - first:
+      213: -7771795080012761907
+    second: Neutral_alpha_52
+  - first:
+      213: -362968995098556747
+    second: Neutral_alpha_53
+  - first:
+      213: -2267494187395948927
+    second: Neutral_alpha_54
+  - first:
+      213: -1288921090610505750
+    second: Neutral_alpha_55
+  - first:
+      213: -2656376364186251496
+    second: Neutral_alpha_56
+  - first:
+      213: 4243407156942828219
+    second: Neutral_alpha_57
+  - first:
+      213: 3757801692127997406
+    second: Neutral_alpha_58
+  - first:
+      213: 2507614333030957576
+    second: Neutral_alpha_59
+  - first:
+      213: 7324022277675781947
+    second: Neutral_alpha_60
+  - first:
+      213: -3171610304529663855
+    second: Neutral_alpha_61
+  - first:
+      213: 2345981385046928603
+    second: Neutral_alpha_62
+  - first:
+      213: 5438492468360820113
+    second: Neutral_alpha_63
+  - first:
+      213: -2331859173245760377
+    second: Neutral_alpha_64
+  - first:
+      213: -2602164251904611988
+    second: Neutral_alpha_65
+  - first:
+      213: 3561141046762760301
+    second: Neutral_alpha_66
+  - first:
+      213: 8106579569954314450
+    second: Neutral_alpha_67
+  - first:
+      213: 2901480522306454033
+    second: Neutral_alpha_68
+  - first:
+      213: -1140362814673896092
+    second: Neutral_alpha_69
+  - first:
+      213: -1965659517325133277
+    second: Neutral_alpha_70
+  - first:
+      213: -8014912242235785162
+    second: Neutral_alpha_71
+  - first:
+      213: -5832785075725399032
+    second: Neutral_alpha_72
+  - first:
+      213: 7788188222008290299
+    second: Neutral_alpha_73
+  - first:
+      213: -2875310670994042242
+    second: Neutral_alpha_74
+  - first:
+      213: -3965028136302586442
+    second: Neutral_alpha_75
+  - first:
+      213: -2789701659701186014
+    second: Neutral_alpha_76
+  - first:
+      213: 8298842533433434274
+    second: Neutral_alpha_77
+  - first:
+      213: -899698875468209338
+    second: Neutral_alpha_78
+  - first:
+      213: 4106080130984384415
+    second: Neutral_alpha_79
+  - first:
+      213: 950758011694642490
+    second: Neutral_alpha_80
+  - first:
+      213: 5688055460381677517
+    second: Neutral_alpha_81
+  - first:
+      213: -6192328498239668249
+    second: Neutral_alpha_82
+  - first:
+      213: 8381119565384382942
+    second: Neutral_alpha_83
+  - first:
+      213: 8821952459962891116
+    second: Neutral_alpha_84
+  - first:
+      213: 1196038131900946288
+    second: Neutral_alpha_85
+  - first:
+      213: -4713849752508594734
+    second: Neutral_alpha_86
+  - first:
+      213: 5673153112820561249
+    second: Neutral_alpha_87
+  - first:
+      213: -2159243194468215762
+    second: Neutral_alpha_88
+  - first:
+      213: -113058243155331995
+    second: Neutral_alpha_89
+  - first:
+      213: 4678198947956041259
+    second: Neutral_alpha_90
+  - first:
+      213: 1788425578009847953
+    second: Neutral_alpha_91
+  - first:
+      213: -2661085516646349127
+    second: Neutral_alpha_92
+  - first:
+      213: 8524158920389415645
+    second: Neutral_alpha_93
+  - first:
+      213: 8282956281972689650
+    second: Neutral_alpha_94
+  - first:
+      213: -1630251095879724792
+    second: Neutral_alpha_95
+  - first:
+      213: 3384104287521234376
+    second: Neutral_alpha_96
+  - first:
+      213: -7616310519269799896
+    second: Neutral_alpha_97
+  - first:
+      213: 3410213309285848202
+    second: Neutral_alpha_98
+  - first:
+      213: -6317987301062960171
+    second: Neutral_alpha_99
+  - first:
+      213: 5712465637435552005
+    second: Neutral_alpha_100
+  - first:
+      213: -323101641191117384
+    second: Neutral_alpha_101
+  - first:
+      213: -160404238059132193
+    second: Neutral_alpha_102
+  - first:
+      213: -5792170692453726382
+    second: Neutral_alpha_103
+  - first:
+      213: 7280256099548861732
+    second: Neutral_alpha_104
+  - first:
+      213: -2664584980218516536
+    second: Neutral_alpha_105
+  - first:
+      213: -2750000529945216550
+    second: Neutral_alpha_106
+  - first:
+      213: 2950026357367212483
+    second: Neutral_alpha_107
+  - first:
+      213: -4086829320757429732
+    second: Neutral_alpha_108
+  - first:
+      213: 7598887231477510079
+    second: Neutral_alpha_109
+  - first:
+      213: -4693059508366335327
+    second: Neutral_alpha_110
+  - first:
+      213: 6021714041967526660
+    second: Neutral_alpha_111
+  - first:
+      213: 8607801102866614996
+    second: Neutral_alpha_112
+  - first:
+      213: -4811380037239983534
+    second: Neutral_alpha_113
+  - first:
+      213: 4957304891048979510
+    second: Neutral_alpha_114
+  - first:
+      213: 893877170474320293
+    second: Neutral_alpha_115
+  - first:
+      213: 4141489515224577308
+    second: Neutral_alpha_116
+  - first:
+      213: 5832557983498420204
+    second: Neutral_alpha_117
+  - first:
+      213: 6995467122343641449
+    second: Neutral_alpha_118
+  - first:
+      213: 2724054160121948805
+    second: Neutral_alpha_119
+  - first:
+      213: -688799023002831770
+    second: Neutral_alpha_0
+  - first:
+      213: 123682662166828831
+    second: Neutral_alpha_1
+  - first:
+      213: 3179858036524112402
+    second: Neutral_alpha_2
+  - first:
+      213: -2300256186625802993
+    second: Neutral_alpha_3
+  - first:
+      213: 279095309770068583
+    second: Neutral_alpha_4
+  - first:
+      213: -1949019382046373724
+    second: Neutral_alpha_5
+  - first:
+      213: 8579744494805468780
+    second: Neutral_alpha_6
+  - first:
+      213: 3301807277350869476
+    second: Neutral_alpha_7
+  - first:
+      213: -1994452789937090466
+    second: Neutral_alpha_8
+  - first:
+      213: 4654836593993666483
+    second: Neutral_alpha_9
+  - first:
+      213: 1020463213630877948
+    second: Neutral_alpha_10
+  - first:
+      213: -6267804532203532170
+    second: Neutral_alpha_11
+  - first:
+      213: 238826824579179019
+    second: Neutral_alpha_12
+  - first:
+      213: 5474998516639074101
+    second: Neutral_alpha_13
+  - first:
+      213: -3336444834497369528
+    second: Neutral_alpha_14
+  - first:
+      213: -3497545682175522423
+    second: Neutral_alpha_15
+  - first:
+      213: 4345163941775324331
+    second: Neutral_alpha_16
+  - first:
+      213: 5731529990584312814
+    second: Neutral_alpha_17
+  - first:
+      213: 1768437796566561897
+    second: Neutral_alpha_18
+  - first:
+      213: 6940623049012738121
+    second: Neutral_alpha_19
+  - first:
+      213: 5447296267603379433
+    second: Neutral_alpha_20
+  - first:
+      213: -8276771276604924071
+    second: Neutral_alpha_21
+  - first:
+      213: 3722960111251343906
+    second: Neutral_alpha_22
+  - first:
+      213: 7024747807284832410
+    second: Neutral_alpha_23
+  - first:
+      213: -9017198176366186015
+    second: Neutral_alpha_24
+  - first:
+      213: 5039709991389942012
+    second: Neutral_alpha_25
+  - first:
+      213: -3705953312427809836
+    second: Neutral_alpha_26
+  - first:
+      213: -2877197020881337247
+    second: Neutral_alpha_27
+  - first:
+      213: 3811396533309211846
+    second: Neutral_alpha_28
+  - first:
+      213: 4180985844827139611
+    second: Neutral_alpha_29
+  - first:
+      213: 2554501123369303037
+    second: Neutral_alpha_30
+  - first:
+      213: -3711581261874085087
+    second: Neutral_alpha_31
+  - first:
+      213: -5348622809370526277
+    second: Neutral_alpha_32
+  - first:
+      213: -391692561567338787
+    second: Neutral_alpha_33
+  - first:
+      213: -4475082632990113228
+    second: Neutral_alpha_34
+  - first:
+      213: -1010535010879984999
+    second: Neutral_alpha_35
+  - first:
+      213: -7678111534908614487
+    second: Neutral_alpha_36
+  - first:
+      213: -3997677323977223000
+    second: Neutral_alpha_37
+  - first:
+      213: -5338645482581047124
+    second: Neutral_alpha_38
+  - first:
+      213: -1753517580468336940
+    second: Neutral_alpha_39
+  - first:
+      213: 1734702797460101176
+    second: Neutral_alpha_40
+  - first:
+      213: -4113833791490492019
+    second: Neutral_alpha_41
+  - first:
+      213: 6262915669184369497
+    second: Neutral_alpha_42
+  - first:
+      213: 8140287291769319249
+    second: Neutral_alpha_43
+  - first:
+      213: -3005107613486889900
+    second: Neutral_alpha_44
+  - first:
+      213: -8418291982813490824
+    second: Neutral_alpha_45
+  - first:
+      213: -2465849082360165948
+    second: Neutral_alpha_46
+  - first:
+      213: -493695929659430206
+    second: Neutral_alpha_47
+  - first:
+      213: -6104299611150720319
+    second: Neutral_alpha_48
+  - first:
+      213: 7263305470206219842
+    second: Neutral_alpha_49
+  - first:
+      213: 3937454102334854154
+    second: Neutral_alpha_50
+  - first:
+      213: 7503624398562517852
+    second: Neutral_alpha_51
+  - first:
+      213: 5159976696501687810
+    second: Neutral_alpha_52
+  - first:
+      213: 5097064586403233571
+    second: Neutral_alpha_53
+  - first:
+      213: 6794808071897088534
+    second: Neutral_alpha_54
+  - first:
+      213: 7203493649402599315
+    second: Neutral_alpha_55
+  - first:
+      213: -3374698027978240658
+    second: Neutral_alpha_56
+  - first:
+      213: -5014457657757833612
+    second: Neutral_alpha_57
+  - first:
+      213: -3829934676009727794
+    second: Neutral_alpha_58
+  - first:
+      213: -8108074117545328418
+    second: Neutral_alpha_59
+  - first:
+      213: 6119280959513384582
+    second: Neutral_alpha_60
+  - first:
+      213: 2809704028956480730
+    second: Neutral_alpha_61
+  - first:
+      213: -2350566265867258781
+    second: Neutral_alpha_62
+  - first:
+      213: -7408997939430149246
+    second: Neutral_alpha_63
+  - first:
+      213: -3019572393317237016
+    second: Neutral_alpha_64
+  - first:
+      213: 7622495269640234154
+    second: Neutral_alpha_65
+  - first:
+      213: -1828350384550348751
+    second: Neutral_alpha_66
+  - first:
+      213: -8544793992872349756
+    second: Neutral_alpha_67
+  - first:
+      213: -3921811126862289370
+    second: Neutral_alpha_68
+  - first:
+      213: -7338982342041065565
+    second: Neutral_alpha_69
+  - first:
+      213: 1374506101880767368
+    second: Neutral_alpha_70
+  - first:
+      213: -2455012939808610799
+    second: Neutral_alpha_71
+  - first:
+      213: 8835665666763369088
+    second: Neutral_alpha_72
+  - first:
+      213: 3862830689947981008
+    second: Neutral_alpha_73
+  - first:
+      213: -7874191434260569734
+    second: Neutral_alpha_74
+  - first:
+      213: -3667743625518490358
+    second: Neutral_alpha_75
+  - first:
+      213: 7232557966073235156
+    second: Neutral_alpha_76
+  - first:
+      213: -5442895978836634824
+    second: Neutral_alpha_77
+  - first:
+      213: 6515307409656280981
+    second: Neutral_alpha_78
+  - first:
+      213: -3545582026058979712
+    second: Neutral_alpha_79
+  - first:
+      213: 7990061159692757599
+    second: Neutral_alpha_80
+  - first:
+      213: 2602255332196316873
+    second: Neutral_alpha_81
+  - first:
+      213: -3255693145126501521
+    second: Neutral_alpha_82
+  - first:
+      213: -6355654881987638355
+    second: Neutral_alpha_83
+  - first:
+      213: 6528193455211224571
+    second: Neutral_alpha_84
+  - first:
+      213: -293630131191282692
+    second: Neutral_alpha_85
+  - first:
+      213: 6506639071810343028
+    second: Neutral_alpha_86
+  - first:
+      213: -3236113443431486675
+    second: Neutral_alpha_87
+  - first:
+      213: -8452924188551340041
+    second: Neutral_alpha_88
+  - first:
+      213: 5515796830215801367
+    second: Neutral_alpha_89
+  - first:
+      213: 5135221863949273605
+    second: Neutral_alpha_90
+  - first:
+      213: -4334992383840682483
+    second: Neutral_alpha_91
+  - first:
+      213: 5697602396574377110
+    second: Neutral_alpha_92
+  - first:
+      213: 55130657853168078
+    second: Neutral_alpha_93
+  - first:
+      213: -2500981426584638213
+    second: Neutral_alpha_94
+  - first:
+      213: -7319534459195575198
+    second: Neutral_alpha_95
+  - first:
+      213: -3212798438386670504
+    second: Neutral_alpha_96
+  - first:
+      213: -9189970229242959257
+    second: Neutral_alpha_97
+  - first:
+      213: -8593910440667772923
+    second: Neutral_alpha_98
+  - first:
+      213: 3288380755285790067
+    second: Neutral_alpha_99
+  - first:
+      213: -4075526861288764834
+    second: Neutral_alpha_100
+  - first:
+      213: -3955158211574779648
+    second: Neutral_alpha_101
+  - first:
+      213: 9162938942688249742
+    second: Neutral_alpha_102
+  - first:
+      213: 5961483373465882688
+    second: Neutral_alpha_103
+  - first:
+      213: -4588903500385869957
+    second: Neutral_alpha_104
+  - first:
+      213: 8913323316253699474
+    second: Neutral_alpha_105
+  - first:
+      213: -8815657272223132872
+    second: Neutral_alpha_106
+  - first:
+      213: -7953260634863189998
+    second: Neutral_alpha_107
+  - first:
+      213: 3619089621061167337
+    second: Neutral_alpha_108
+  - first:
+      213: -2525261072826438580
+    second: Neutral_alpha_109
+  - first:
+      213: 8264898154966382767
+    second: Neutral_alpha_110
+  - first:
+      213: -7667553986606375344
+    second: Neutral_alpha_111
+  - first:
+      213: 2563798219330764625
+    second: Neutral_alpha_112
+  - first:
+      213: 4662552984602923064
+    second: Neutral_alpha_113
+  - first:
+      213: -1031419763506147912
+    second: Neutral_alpha_114
+  - first:
+      213: -5621814689780881689
+    second: Neutral_alpha_115
+  - first:
+      213: -4263915927512317731
+    second: Neutral_alpha_116
+  - first:
+      213: -8909466676340609378
+    second: Neutral_alpha_117
+  - first:
+      213: -2125833191826928723
+    second: Neutral_alpha_118
+  - first:
+      213: 3335528742240074766
+    second: Neutral_alpha_119
+  - first:
+      213: 9184850146289764194
+    second: Man1_0
+  - first:
+      213: -8323962847914427941
+    second: Man1_1
+  - first:
+      213: -4409051431386189451
+    second: Man1_2
+  - first:
+      213: 2482544124598728628
+    second: Man1_3
+  - first:
+      213: -8131084156806634162
+    second: Man1_4
+  - first:
+      213: -815319692299843803
+    second: Man1_5
+  - first:
+      213: -3016093626378481913
+    second: Man1_6
+  - first:
+      213: 1827364438402437668
+    second: Man1_7
+  - first:
+      213: -118756450571702821
+    second: Man1_8
+  - first:
+      213: 3658387121483373271
+    second: Man1_9
+  - first:
+      213: 4360712478514339317
+    second: Man1_10
+  - first:
+      213: 7830927588756481978
+    second: Man1_11
+  - first:
+      213: 2790805580698313604
+    second: Man1_12
+  - first:
+      213: -1065325533716615812
+    second: Man1_13
+  - first:
+      213: -5852076834988571632
+    second: Man1_14
+  - first:
+      213: 5813359749437753684
+    second: Man1_15
+  - first:
+      213: 3625024643092313158
+    second: Man1_16
+  - first:
+      213: 6513682290202086101
+    second: Man1_17
+  - first:
+      213: -108412765127843720
+    second: Man1_18
+  - first:
+      213: -3968231923662543357
+    second: Man1_19
+  - first:
+      213: 287852008651049564
+    second: Man1_20
+  - first:
+      213: -3919697337652172287
+    second: Man1_21
+  - first:
+      213: -7318360393735868924
+    second: Man1_22
+  - first:
+      213: -2621058089636166682
+    second: Man1_23
+  - first:
+      213: -5679627351114642837
+    second: Man1_24
+  - first:
+      213: 5210889796333467601
+    second: Man1_25
+  - first:
+      213: -2556020231245532636
+    second: Man1_26
+  - first:
+      213: 1229520795317653412
+    second: Man1_27
+  - first:
+      213: -2673839773675587336
+    second: Man1_28
+  - first:
+      213: -4646305969248410918
+    second: Man1_29
+  - first:
+      213: 3343493731105617452
+    second: Man1_30
+  - first:
+      213: -7456537567321351030
+    second: Man1_31
+  - first:
+      213: 3354340038586884234
+    second: Man1_32
+  - first:
+      213: 7732373541096777169
+    second: Man1_33
+  - first:
+      213: -6543563752356592227
+    second: Man1_34
+  - first:
+      213: 3807126396643335262
+    second: Man1_35
+  - first:
+      213: -5357637877239906109
+    second: Man1_36
+  - first:
+      213: 3739466412619191108
+    second: Man1_37
+  - first:
+      213: -2789459169400591404
+    second: Man1_38
+  - first:
+      213: 6996469877905209638
+    second: Man1_39
+  - first:
+      213: -9058652327227677413
+    second: Man1_40
+  - first:
+      213: -6170442962827098228
+    second: Man1_41
+  - first:
+      213: 2560778965272842307
+    second: Man1_42
+  - first:
+      213: 8542034550948879443
+    second: Man1_43
+  - first:
+      213: -454715774868144265
+    second: Man1_44
+  - first:
+      213: 1523236881948511184
+    second: Man1_45
+  - first:
+      213: 7851737990143605857
+    second: Man1_46
+  - first:
+      213: 2638145049718465046
+    second: Man1_47
+  - first:
+      213: 349331392423940518
+    second: Man1_48
+  - first:
+      213: -4905159690436701786
+    second: Man1_49
+  - first:
+      213: -6772053889807435372
+    second: Man1_50
+  - first:
+      213: 6067080907252755150
+    second: Man1_51
+  - first:
+      213: 142764425380088233
+    second: Man1_52
+  - first:
+      213: -8936269652466284286
+    second: Man1_53
+  - first:
+      213: 5093237505384553047
+    second: Man1_54
+  - first:
+      213: 3361497524696551619
+    second: Man1_55
+  - first:
+      213: -6469999748022993605
+    second: Man1_56
+  - first:
+      213: -4351738127282594690
+    second: Man1_57
+  - first:
+      213: -1575191510214006121
+    second: Man1_58
+  - first:
+      213: -7034136740547770900
+    second: Man1_59
+  - first:
+      213: 8403407699677634998
+    second: Man1_60
+  - first:
+      213: 1399737791680603134
+    second: Man1_61
+  - first:
+      213: 2748507186322796171
+    second: Man1_62
+  - first:
+      213: 230159002299645642
+    second: Man1_63
+  - first:
+      213: 401098866589973999
+    second: Man1_64
+  - first:
+      213: -1567555310650841031
+    second: Man1_65
+  - first:
+      213: -5829390211476084431
+    second: Man1_66
+  - first:
+      213: -6395324301461282928
+    second: Man1_67
+  - first:
+      213: -1917455058408211743
+    second: Man1_68
+  - first:
+      213: -1555036828018062004
+    second: Man1_69
+  - first:
+      213: 1179851773376094010
+    second: Man1_70
+  - first:
+      213: 5294955611848955440
+    second: Man1_71
+  - first:
+      213: 7699312493118172008
+    second: Man1_72
+  - first:
+      213: -4393549314611521941
+    second: Man1_73
+  - first:
+      213: -6752855342187325473
+    second: Man1_74
+  - first:
+      213: 6476878329092938136
+    second: Man1_75
+  - first:
+      213: -104920119386525749
+    second: Man1_76
+  - first:
+      213: 8819598280576603297
+    second: Man1_77
+  - first:
+      213: 515870049574361194
+    second: Man1_78
+  - first:
+      213: 3623058785562784276
+    second: Man1_79
+  - first:
+      213: 5882182048689554950
+    second: Man1_80
+  - first:
+      213: -8895930378654791297
+    second: Man1_81
+  - first:
+      213: -7559404591150373307
+    second: Man1_82
+  - first:
+      213: -1083031931787910511
+    second: Man1_83
+  - first:
+      213: -4258786172216595466
+    second: Man1_84
+  - first:
+      213: -7500628403517488493
+    second: Man1_85
+  - first:
+      213: -928902730669464919
+    second: Man1_86
+  - first:
+      213: -8915989206528547140
+    second: Man1_87
+  - first:
+      213: -7061905910823949601
+    second: Man1_88
+  - first:
+      213: 7797693922641448726
+    second: Man1_89
+  - first:
+      213: -7451978332333292716
+    second: Man1_90
+  - first:
+      213: 4111884988572951177
+    second: Man1_91
+  - first:
+      213: -6220412783577441135
+    second: Man1_92
+  - first:
+      213: -5423779002626773396
+    second: Man1_93
+  - first:
+      213: 8844921068116900761
+    second: Man1_94
+  - first:
+      213: -6394806544832547774
+    second: Man1_95
+  - first:
+      213: 1734645787065768798
+    second: Man1_96
+  - first:
+      213: -1880399505389341664
+    second: Man1_97
+  - first:
+      213: 3713259571456995256
+    second: Man1_98
+  - first:
+      213: -737586890347173787
+    second: Man1_99
+  - first:
+      213: -432043096879956786
+    second: Man1_100
+  - first:
+      213: 7798118465070270462
+    second: Man1_101
+  - first:
+      213: -7222532261159956969
+    second: Man1_102
+  - first:
+      213: 2343113276448746305
+    second: Man1_103
+  - first:
+      213: 2291454894140790017
+    second: Man1_104
+  - first:
+      213: -5543913745542744777
+    second: Man1_105
+  - first:
+      213: 1001065515243384934
+    second: Man1_106
+  - first:
+      213: -1361954740202686304
+    second: Man1_107
+  - first:
+      213: -4543625776921133878
+    second: Man1_108
+  - first:
+      213: -3509333110285069035
+    second: Man1_109
+  - first:
+      213: 2187924367765188085
+    second: Man1_110
+  - first:
+      213: 2110263297706062801
+    second: Man1_111
+  - first:
+      213: 6286508155720482933
+    second: Man1_112
+  - first:
+      213: 796019683977584789
+    second: Man1_113
+  - first:
+      213: 3927970706099040401
+    second: Man1_114
+  - first:
+      213: -1236461226993136386
+    second: Man1_115
+  - first:
+      213: -4614909630184512235
+    second: Man1_116
+  - first:
+      213: 5113428756893676191
+    second: Man1_117
+  - first:
+      213: 4194607043405378701
+    second: Man1_118
+  - first:
+      213: -2476308799251932899
+    second: Man1_119
+  - first:
+      213: 5478345768587462911
+    second: Man1_IDLE_0
+  - first:
+      213: 2775581004171431651
+    second: Man1_IDLE_1
+  - first:
+      213: -6621114311645461751
+    second: Man1_IDLE_2
+  - first:
+      213: -7506492353524185393
+    second: Man1_IDLE_3
+  - first:
+      213: 2139950697331783575
+    second: Man1_IDLE_4
+  - first:
+      213: 2778184913782489036
+    second: Man1_IDLE_5
+  - first:
+      213: -1375341178187398431
+    second: Man1_IDLE_6
+  - first:
+      213: 3670848339508873547
+    second: Man1_IDLE_7
+  - first:
+      213: 3459344167550893925
+    second: Man1_IDLE_8
+  - first:
+      213: 110322047507559314
+    second: Man1_IDLE_9
+  - first:
+      213: -5305101451763414149
+    second: Man1_IDLE_10
+  - first:
+      213: -2721152564224033248
+    second: Man1_IDLE_11
+  - first:
+      213: 7984284580694023945
+    second: Man1_IDLE_12
+  - first:
+      213: 7730129492238838491
+    second: Man1_IDLE_13
+  - first:
+      213: -6965933845851171542
+    second: Man1_IDLE_14
+  - first:
+      213: 7038796533577158648
+    second: Man1_IDLE_15
+  - first:
+      213: -3597546566989708376
+    second: Man1_IDLE_16
+  - first:
+      213: -1175804137548579750
+    second: Man1_IDLE_17
+  - first:
+      213: 5882661961534355256
+    second: Man1_IDLE_18
+  - first:
+      213: -6457313965567450788
+    second: Man1_IDLE_19
+  - first:
+      213: 3558329723729020330
+    second: Man1_IDLE_20
+  - first:
+      213: 3047641072322431149
+    second: Man1_IDLE_21
+  - first:
+      213: -3429442470189269673
+    second: Man1_IDLE_22
+  - first:
+      213: 1622994986986924124
+    second: Man1_IDLE_23
+  - first:
+      213: -7762337452404721649
+    second: Man1_IDLE_24
+  - first:
+      213: -6761659468910042497
+    second: Man1_IDLE_25
+  - first:
+      213: -1042426591098016164
+    second: Man1_IDLE_26
+  - first:
+      213: 4908934232058513248
+    second: Man1_IDLE_27
+  - first:
+      213: -5954953454104895130
+    second: Man1_IDLE_28
+  - first:
+      213: -9198631473956129526
+    second: Man1_IDLE_29
+  - first:
+      213: 1888215586720626280
+    second: Man1_IDLE_30
+  - first:
+      213: 32514543349499112
+    second: Man1_IDLE_31
+  - first:
+      213: -2430084907016043046
+    second: Man1_IDLE_32
+  - first:
+      213: -1692300942480134970
+    second: Man1_IDLE_33
+  - first:
+      213: 3881562178830541028
+    second: Man1_IDLE_34
+  - first:
+      213: -3793437790609139130
+    second: Man1_IDLE_35
+  - first:
+      213: 7402732302258578393
+    second: Man1_IDLE_36
+  - first:
+      213: 2783006142471586530
+    second: Man1_IDLE_37
+  - first:
+      213: 8541917841677568324
+    second: Man1_IDLE_38
+  - first:
+      213: -732905639549848846
+    second: Man1_IDLE_39
+  - first:
+      213: 3032933841019387254
+    second: Man1_IDLE_40
+  - first:
+      213: 7049531247767158036
+    second: Man1_IDLE_41
+  - first:
+      213: 2389676232835536886
+    second: Man1_IDLE_42
+  - first:
+      213: 868084885956622531
+    second: Man1_IDLE_43
+  - first:
+      213: -7685539054312680422
+    second: Man1_IDLE_44
+  - first:
+      213: 4826212123671071619
+    second: Man1_IDLE_45
+  - first:
+      213: -5922704844469922381
+    second: Man1_IDLE_46
+  - first:
+      213: -3612237821226102022
+    second: Man1_IDLE_47
+  - first:
+      213: 1165807910101633443
+    second: Man1_IDLE_48
+  - first:
+      213: 6881525684717109013
+    second: Man1_IDLE_49
+  - first:
+      213: -5597603757969201144
+    second: Man1_IDLE_50
+  - first:
+      213: -8927247743522202685
+    second: Man1_IDLE_51
+  - first:
+      213: -5277265039232070619
+    second: Man1_IDLE_52
+  - first:
+      213: 1013416772807979355
+    second: Man1_IDLE_53
+  - first:
+      213: 5949972486987169687
+    second: Man1_IDLE_54
+  - first:
+      213: 407158983668802770
+    second: Man1_IDLE_55
+  - first:
+      213: -9200328481531666829
+    second: Man1_IDLE_56
+  - first:
+      213: 7589578652314131302
+    second: Man1_IDLE_57
+  - first:
+      213: 2717585156127033422
+    second: Man1_IDLE_58
+  - first:
+      213: -7420377390354646396
+    second: Man1_IDLE_59
+  - first:
+      213: -5401541176461289010
+    second: Man1_IDLE_60
+  - first:
+      213: -4336145392916342258
+    second: Man1_IDLE_61
+  - first:
+      213: -3241244639649142289
+    second: Man1_IDLE_62
+  - first:
+      213: 2802955946895929913
+    second: Man1_IDLE_63
+  - first:
+      213: -1513170139589540926
+    second: Man1_IDLE_64
+  - first:
+      213: 4095279167296297055
+    second: Man1_IDLE_65
+  - first:
+      213: -1775073901114429971
+    second: Man1_IDLE_66
+  - first:
+      213: -1297999460456792689
+    second: Man1_IDLE_67
+  - first:
+      213: 1868099513980776494
+    second: Man1_IDLE_68
+  - first:
+      213: -1690853271755140468
+    second: Man1_IDLE_69
+  - first:
+      213: -1132730428163688288
+    second: Man1_IDLE_70
+  - first:
+      213: 8223405099798785975
+    second: Man1_IDLE_71
+  - first:
+      213: 388463849712645614
+    second: Man1_IDLE_72
+  - first:
+      213: 592077370800063678
+    second: Man1_IDLE_73
+  - first:
+      213: 7947192317374661995
+    second: Man1_IDLE_74
+  - first:
+      213: 8815524722184541912
+    second: Man1_IDLE_75
+  - first:
+      213: -87648616006764518
+    second: Man1_IDLE_76
+  - first:
+      213: -2444816428914800301
+    second: Man1_IDLE_77
+  - first:
+      213: 4032260635636628394
+    second: Man1_IDLE_78
+  - first:
+      213: -6770229468737020358
+    second: Man1_IDLE_79
+  - first:
+      213: -929707009295697546
+    second: Man1_IDLE_80
+  - first:
+      213: -7234479293176106676
+    second: Man1_IDLE_81
+  - first:
+      213: -6401275951658251773
+    second: Man1_IDLE_82
+  - first:
+      213: -5996765941357086052
+    second: Man1_IDLE_83
+  - first:
+      213: -4142740643253317001
+    second: Man1_IDLE_84
+  - first:
+      213: 7861207800559848892
+    second: Man1_IDLE_85
+  - first:
+      213: 2622584259769096246
+    second: Man1_IDLE_86
+  - first:
+      213: 8210926667885962933
+    second: Man1_IDLE_87
+  - first:
+      213: -6945446270080338225
+    second: Man1_IDLE_88
+  - first:
+      213: 5798538561508758874
+    second: Man1_IDLE_89
+  - first:
+      213: -584141699452149250
+    second: Man1_IDLE_90
+  - first:
+      213: 6034996532066562722
+    second: Man1_IDLE_91
+  - first:
+      213: -5609543720580740022
+    second: Man1_IDLE_92
+  - first:
+      213: -6151991360943848137
+    second: Man1_IDLE_93
+  - first:
+      213: -7149592952069961658
+    second: Man1_IDLE_94
+  - first:
+      213: -7199109078760934651
+    second: Man1_IDLE_95
+  - first:
+      213: 978475867618507316
+    second: Man1_IDLE_96
+  - first:
+      213: -2760625069313141432
+    second: Man1_IDLE_97
+  - first:
+      213: -4369312894685644831
+    second: Man1_IDLE_98
+  - first:
+      213: 5676906994772182863
+    second: Man1_IDLE_99
+  - first:
+      213: 5807317901796979808
+    second: Man1_IDLE_100
+  - first:
+      213: 6661046858275497218
+    second: Man1_IDLE_101
+  - first:
+      213: -6084717908327892361
+    second: Man1_IDLE_102
+  - first:
+      213: 5002428428180696378
+    second: Man1_IDLE_103
+  - first:
+      213: 3185813485660465146
+    second: Man1_IDLE_104
+  - first:
+      213: 4955873788181252351
+    second: Man1_IDLE_105
+  - first:
+      213: 7771143123349701769
+    second: Man1_IDLE_106
+  - first:
+      213: 9180627844187010910
+    second: Man1_IDLE_107
+  - first:
+      213: -5757663612208861632
+    second: Man1_IDLE_108
+  - first:
+      213: 4667869172124737187
+    second: Man1_IDLE_109
+  - first:
+      213: 1197878564730949524
+    second: Man1_IDLE_110
+  - first:
+      213: -2157380917914473069
+    second: Man1_IDLE_111
+  - first:
+      213: 5668492088415303122
+    second: Man1_IDLE_112
+  - first:
+      213: 1442759469388380375
+    second: Man1_IDLE_113
+  - first:
+      213: -2429119978712149869
+    second: Man1_IDLE_114
+  - first:
+      213: -584312032532680666
+    second: Man1_IDLE_115
+  - first:
+      213: 9059763495333484191
+    second: Man1_IDLE_116
+  - first:
+      213: 3121415443734520254
+    second: Man1_IDLE_117
+  - first:
+      213: -620432074512629312
+    second: Man1_IDLE_118
+  - first:
+      213: -4531268864605963034
+    second: Man1_IDLE_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Man1_IDLE_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 469
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff88b65737ef60c40800000000000000
+      internalID: 5478345768587462911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 469
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eec5f6b738d48620800000000000000
+      internalID: 2775581004171431651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 469
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9030e1d1d931d14a0800000000000000
+      internalID: -6621114311645461751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 469
+        width: 37
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6410fb9f493d790800000000000000
+      internalID: -7506492353524185393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 469
+        width: 37
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7977f4f32d1a2bd10800000000000000
+      internalID: 2139950697331783575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 469
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfba5aa5781e8620800000000000000
+      internalID: 2778184913782489036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 469
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e24c2d3c7ec9ece0800000000000000
+      internalID: -1375341178187398431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 469
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4942c4ad1971f230800000000000000
+      internalID: 3670848339508873547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 469
+        width: 37
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fb0b6213f020030800000000000000
+      internalID: 3459344167550893925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 469
+        width: 37
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293f4945151f78100800000000000000
+      internalID: 110322047507559314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_10
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 469
+        width: 37
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b8b36565e7066b0800000000000000
+      internalID: -5305101451763414149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_11
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 469
+        width: 36
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e78cdf8268c3ad0800000000000000
+      internalID: -2721152564224033248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_12
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 469
+        width: 37
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f55e90680edce60800000000000000
+      internalID: 7984284580694023945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_13
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 469
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdaaaa431dfe64b60800000000000000
+      internalID: 7730129492238838491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_14
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 469
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a259b250318045f90800000000000000
+      internalID: -6965933845851171542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 397
+        width: 28
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff0e167724dea160800000000000000
+      internalID: 7038796533577158648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 397
+        width: 27
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a307ab3572f21ec0800000000000000
+      internalID: -3597546566989708376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_17
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 397
+        width: 27
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c7bf7dd54beafe0800000000000000
+      internalID: -1175804137548579750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 397
+        width: 28
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83735f6e2e963a150800000000000000
+      internalID: 5882661961534355256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 397
+        width: 28
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51ee2f19230366a0800000000000000
+      internalID: -6457313965567450788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 397
+        width: 29
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa50598e70ab16130800000000000000
+      internalID: 3558329723729020330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_21
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 397
+        width: 30
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da84bae78656b4a20800000000000000
+      internalID: 3047641072322431149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_22
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 397
+        width: 30
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dfaba4e3c2860d0800000000000000
+      internalID: -3429442470189269673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_23
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 397
+        width: 30
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5868977759068610800000000000000
+      internalID: 1622994986986924124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_24
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 397
+        width: 29
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08b4b2b633a64490800000000000000
+      internalID: -7762337452404721649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_25
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 397
+        width: 29
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72e57fa982c922a0800000000000000
+      internalID: -6761659468910042497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_26
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 397
+        width: 29
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e6e25d98e8881f0800000000000000
+      internalID: -1042426591098016164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_27
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 397
+        width: 29
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0674a97eca9002440800000000000000
+      internalID: 4908934232058513248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_28
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 397
+        width: 28
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661a71a5261cb5da0800000000000000
+      internalID: -5954953454104895130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_29
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 397
+        width: 28
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05fd1f2965e75080800000000000000
+      internalID: -9198631473956129526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 335
+        width: 37
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866b6d9621a443a10800000000000000
+      internalID: 1888215586720626280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 335
+        width: 37
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4816e0ec3837000800000000000000
+      internalID: 32514543349499112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 335
+        width: 37
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad54547f6aa964ed0800000000000000
+      internalID: -2430084907016043046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 335
+        width: 37
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cca96e424db388e0800000000000000
+      internalID: -1692300942480134970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_34
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 335
+        width: 37
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e029ca7c341ed530800000000000000
+      internalID: 3881562178830541028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 335
+        width: 37
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a133d8d600b5bc0800000000000000
+      internalID: -3793437790609139130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_36
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 335
+        width: 37
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3ae6bbec9cbb660800000000000000
+      internalID: 7402732302258578393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_37
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 335
+        width: 37
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2cfb177593f9620800000000000000
+      internalID: 2783006142471586530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_38
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 335
+        width: 37
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44943cd150dfa8670800000000000000
+      internalID: 8541917841677568324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_39
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 335
+        width: 36
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f230c4343234d5f0800000000000000
+      internalID: -732905639549848846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_40
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 335
+        width: 35
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67db83d5245271a20800000000000000
+      internalID: 3032933841019387254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_41
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 335
+        width: 36
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d7d20e157f4d160800000000000000
+      internalID: 7049531247767158036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_42
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 335
+        width: 36
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f71b5a6fd5d92120800000000000000
+      internalID: 2389676232835536886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_43
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 335
+        width: 37
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8745eba9e0c0c00800000000000000
+      internalID: 868084885956622531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_44
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 335
+        width: 38
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a141d4823fa775590800000000000000
+      internalID: -7685539054312680422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 264
+        width: 28
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b091a2b562af240800000000000000
+      internalID: 4826212123671071619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_46
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 264
+        width: 27
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b592e3e2535ecda0800000000000000
+      internalID: -5922704844469922381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_47
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 264
+        width: 27
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2569d07d0ceddc0800000000000000
+      internalID: -3612237821226102022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_48
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 264
+        width: 28
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9c2f51e18cd2010800000000000000
+      internalID: 1165807910101633443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 264
+        width: 28
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f3a4e7627108f50800000000000000
+      internalID: 6881525684717109013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_50
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 264
+        width: 29
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808aadc1a015152b0800000000000000
+      internalID: -5597603757969201144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_51
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 264
+        width: 30
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb9371d97b0c1480800000000000000
+      internalID: -8927247743522202685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_52
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 264
+        width: 30
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c0cfe286363c6b0800000000000000
+      internalID: -5277265039232070619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_53
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 264
+        width: 30
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5174a08f21601e00800000000000000
+      internalID: 1013416772807979355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_54
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 264
+        width: 29
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fb73ed37c829250800000000000000
+      internalID: 5949972486987169687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_55
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 264
+        width: 29
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d420bc30f486a500800000000000000
+      internalID: 407158983668802770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_56
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 264
+        width: 30
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e5561ddfdd15080800000000000000
+      internalID: -9200328481531666829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_57
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 264
+        width: 29
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b521ea299935960800000000000000
+      internalID: 7589578652314131302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_58
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 264
+        width: 29
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4883d51d4dc6b520800000000000000
+      internalID: 2717585156127033422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_59
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 264
+        width: 28
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a329c0416850990800000000000000
+      internalID: -7420377390354646396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 201
+        width: 30
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec911692beed905b0800000000000000
+      internalID: -5401541176461289010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_61
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 201
+        width: 30
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a56c03dbae2d3c0800000000000000
+      internalID: -4336145392916342258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_62
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 201
+        width: 30
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9e29f4c29c403d0800000000000000
+      internalID: -3241244639649142289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 201
+        width: 31
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932fccf359916e620800000000000000
+      internalID: 2802955946895929913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_64
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 201
+        width: 31
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3890176c3200be0800000000000000
+      internalID: -1513170139589540926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_65
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 201
+        width: 31
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58d0c674ba55d830800000000000000
+      internalID: 4095279167296297055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_66
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 201
+        width: 31
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dede10211bbad57e0800000000000000
+      internalID: -1775073901114429971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_67
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 201
+        width: 30
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8df2d82e549cfde0800000000000000
+      internalID: -1297999460456792689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_68
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 201
+        width: 30
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2077ef3c92dce910800000000000000
+      internalID: 1868099513980776494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_69
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 201
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c825ab968e1e888e0800000000000000
+      internalID: -1690853271755140468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_70
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 201
+        width: 31
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8f6035dabb740f0800000000000000
+      internalID: -1132730428163688288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_71
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 201
+        width: 30
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf64a96e576f1270800000000000000
+      internalID: 8223405099798785975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_72
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 201
+        width: 30
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5f33a20d9146500800000000000000
+      internalID: 388463849712645614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_73
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 201
+        width: 31
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4c5165b3b773800800000000000000
+      internalID: 592077370800063678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_74
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 201
+        width: 31
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6584de7e491a4e60800000000000000
+      internalID: 7947192317374661995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 40
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6db763709075a70800000000000000
+      internalID: 8815524722184541912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 135
+        width: 39
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18bcd15c0c98cef0800000000000000
+      internalID: -87648616006764518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_77
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 135
+        width: 39
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3598e7d3964421ed0800000000000000
+      internalID: -2444816428914800301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_78
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 135
+        width: 39
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab79ec2fa775f730800000000000000
+      internalID: 4032260635636628394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_79
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 135
+        width: 39
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e5c0c1b205b02a0800000000000000
+      internalID: -6770229468737020358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_80
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 135
+        width: 39
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6793dbd96640913f0800000000000000
+      internalID: -929707009295697546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_81
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 135
+        width: 39
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41b15ba967f99b90800000000000000
+      internalID: -7234479293176106676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_82
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 135
+        width: 39
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ac828ff691a27a0800000000000000
+      internalID: -6401275951658251773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_83
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 135
+        width: 39
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aff38062537cca0800000000000000
+      internalID: -5996765941357086052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_84
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 135
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772105a85570286c0800000000000000
+      internalID: -4142740643253317001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_85
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 135
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd46e918de981d60800000000000000
+      internalID: 7861207800559848892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_86
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 135
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638511d3d7a456420800000000000000
+      internalID: 2622584259769096246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_87
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 135
+        width: 39
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6ef141d4213f170800000000000000
+      internalID: 8210926667885962933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_88
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 135
+        width: 39
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6bc497a61dc9f90800000000000000
+      internalID: -6945446270080338225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_89
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 135
+        width: 40
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a555227891c887050800000000000000
+      internalID: 5798538561508758874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_90
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 67
+        width: 30
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef169a12836b4e7f0800000000000000
+      internalID: -584141699452149250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_91
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 67
+        width: 30
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2ba820f5d90c350800000000000000
+      internalID: 6034996532066562722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_92
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 67
+        width: 31
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c03cee4b5e622b0800000000000000
+      internalID: -5609543720580740022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_93
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 67
+        width: 30
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7358bada37cbf9aa0800000000000000
+      internalID: -6151991360943848137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_94
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 67
+        width: 30
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648cb3b171b87cc90800000000000000
+      internalID: -7149592952069961658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_95
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 67
+        width: 30
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5033a257f60a71c90800000000000000
+      internalID: -7199109078760934651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_96
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 67
+        width: 31
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a71be0e9e349d00800000000000000
+      internalID: 978475867618507316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_97
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 67
+        width: 31
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8455d89302a40b9d0800000000000000
+      internalID: -2760625069313141432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_98
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 67
+        width: 30
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e77ab762151d53c0800000000000000
+      internalID: -4369312894685644831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_99
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 67
+        width: 31
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47835e85dc68ce40800000000000000
+      internalID: 5676906994772182863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_100
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 67
+        width: 31
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064306afcdcb79050800000000000000
+      internalID: 5807317901796979808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_101
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 67
+        width: 31
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2052ebb63dac07c50800000000000000
+      internalID: 6661046858275497218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_102
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 67
+        width: 31
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a78a3fc4dbe8ba0800000000000000
+      internalID: -6084717908327892361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_103
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 67
+        width: 31
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3da604c6223c6540800000000000000
+      internalID: 5002428428180696378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_104
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 67
+        width: 30
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7e07d6c78463c20800000000000000
+      internalID: 3185813485660465146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_105
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff88638f3fcc6c440800000000000000
+      internalID: 4955873788181252351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_106
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9848af55f75a8db60800000000000000
+      internalID: 7771143123349701769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_107
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1
+        width: 39
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57b3db1264286f70800000000000000
+      internalID: 9180627844187010910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 39
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e291a337ba810b0800000000000000
+      internalID: -5757663612208861632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_109
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1
+        width: 39
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aedd76d74a97c040800000000000000
+      internalID: 4667869172124737187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_110
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1
+        width: 39
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fc7de3538bf9010800000000000000
+      internalID: 1197878564730949524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_111
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d60864c717f02e0800000000000000
+      internalID: -2157380917914473069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_112
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d53b1e75878aae40800000000000000
+      internalID: 5668492088415303122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_113
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1
+        width: 39
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8b935e716b50410800000000000000
+      internalID: 1442759469388380375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_114
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1
+        width: 38
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390de08df380a4ed0800000000000000
+      internalID: -2429119978712149869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_115
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1
+        width: 38
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62037ee5d4b14e7f0800000000000000
+      internalID: -584312032532680666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_116
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1
+        width: 38
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f965768f5eebabd70800000000000000
+      internalID: 9059763495333484191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_117
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1
+        width: 39
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1e630eece715b20800000000000000
+      internalID: 3121415443734520254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_118
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c18a6fb058c367f0800000000000000
+      internalID: -620432074512629312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_IDLE_119
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1
+        width: 40
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecbf5fa9f2bd11c0800000000000000
+      internalID: -4531268864605963034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c75f1c82d33799a46bad8df4e16b9a2b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3572 @@
+fileFormatVersion: 2
+guid: dae6b34bb75d9d64596e5bdf24fde1ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6437094526285025398
+    second: Walk (16x8) 1_0
+  - first:
+      213: 7251989189445525880
+    second: Walk (16x8) 1_1
+  - first:
+      213: 1456542485665855622
+    second: Walk (16x8) 1_2
+  - first:
+      213: 3767761193773912205
+    second: Walk (16x8) 1_3
+  - first:
+      213: -2319199701672602549
+    second: Walk (16x8) 1_4
+  - first:
+      213: -3310234234493924779
+    second: Walk (16x8) 1_5
+  - first:
+      213: 2028934805901181935
+    second: Walk (16x8) 1_6
+  - first:
+      213: 243268782110197001
+    second: Walk (16x8) 1_7
+  - first:
+      213: -5209526963270210687
+    second: Walk (16x8) 1_8
+  - first:
+      213: 6255817878011104738
+    second: Walk (16x8) 1_9
+  - first:
+      213: -4811376538579107754
+    second: Walk (16x8) 1_10
+  - first:
+      213: 1335642907393076952
+    second: Walk (16x8) 1_11
+  - first:
+      213: -3117790030792665096
+    second: Walk (16x8) 1_12
+  - first:
+      213: -6585428268955465473
+    second: Walk (16x8) 1_13
+  - first:
+      213: -5827351763499039810
+    second: Walk (16x8) 1_14
+  - first:
+      213: -6621248752175947293
+    second: Walk (16x8) 1_15
+  - first:
+      213: 5168985910890598086
+    second: Walk (16x8) 1_16
+  - first:
+      213: -2403877181721043824
+    second: Walk (16x8) 1_17
+  - first:
+      213: 5394759915944432576
+    second: Walk (16x8) 1_18
+  - first:
+      213: -7015040523421641148
+    second: Walk (16x8) 1_19
+  - first:
+      213: 3220312042494647135
+    second: Walk (16x8) 1_20
+  - first:
+      213: 1297204733419320048
+    second: Walk (16x8) 1_21
+  - first:
+      213: 7381301012784147490
+    second: Walk (16x8) 1_22
+  - first:
+      213: 6852554842411027753
+    second: Walk (16x8) 1_23
+  - first:
+      213: 6479040314108306885
+    second: Walk (16x8) 1_24
+  - first:
+      213: -7208630228900220712
+    second: Walk (16x8) 1_25
+  - first:
+      213: -4152187535404969815
+    second: Walk (16x8) 1_26
+  - first:
+      213: 975337525084803071
+    second: Walk (16x8) 1_27
+  - first:
+      213: 8395437912306983065
+    second: Walk (16x8) 1_28
+  - first:
+      213: 6699655695099724083
+    second: Walk (16x8) 1_29
+  - first:
+      213: 51932346519149973
+    second: Walk (16x8) 1_30
+  - first:
+      213: 6977921421864595398
+    second: Walk (16x8) 1_31
+  - first:
+      213: 8062144379066108842
+    second: Walk (16x8) 1_32
+  - first:
+      213: -347874733589454257
+    second: Walk (16x8) 1_33
+  - first:
+      213: -3385523361862772607
+    second: Walk (16x8) 1_34
+  - first:
+      213: -3499768763723962071
+    second: Walk (16x8) 1_35
+  - first:
+      213: -218984422019368779
+    second: Walk (16x8) 1_36
+  - first:
+      213: -2617451377809561608
+    second: Walk (16x8) 1_37
+  - first:
+      213: 6829838432065116079
+    second: Walk (16x8) 1_38
+  - first:
+      213: 8679330800649541904
+    second: Walk (16x8) 1_39
+  - first:
+      213: 551636690302705436
+    second: Walk (16x8) 1_40
+  - first:
+      213: -8101177731242558782
+    second: Walk (16x8) 1_41
+  - first:
+      213: 6967140382807844931
+    second: Walk (16x8) 1_42
+  - first:
+      213: 8389822865472637898
+    second: Walk (16x8) 1_43
+  - first:
+      213: -1029637206092180437
+    second: Walk (16x8) 1_44
+  - first:
+      213: 9133275319090680372
+    second: Walk (16x8) 1_45
+  - first:
+      213: -2721465049080237485
+    second: Walk (16x8) 1_46
+  - first:
+      213: 4109965562036908709
+    second: Walk (16x8) 1_47
+  - first:
+      213: 3403779566715671117
+    second: Walk (16x8) 1_48
+  - first:
+      213: 7570025673205149940
+    second: Walk (16x8) 1_49
+  - first:
+      213: 1443523678226868067
+    second: Walk (16x8) 1_50
+  - first:
+      213: 7882576235665449278
+    second: Walk (16x8) 1_51
+  - first:
+      213: -1206306972331569165
+    second: Walk (16x8) 1_52
+  - first:
+      213: -7826931779372801382
+    second: Walk (16x8) 1_53
+  - first:
+      213: -2191907993851648520
+    second: Walk (16x8) 1_54
+  - first:
+      213: 7995332126380733858
+    second: Walk (16x8) 1_55
+  - first:
+      213: -8995211766935252699
+    second: Walk (16x8) 1_56
+  - first:
+      213: -8063597239229766006
+    second: Walk (16x8) 1_57
+  - first:
+      213: 7638265757602426871
+    second: Walk (16x8) 1_58
+  - first:
+      213: 30287709353186903
+    second: Walk (16x8) 1_59
+  - first:
+      213: -8882480215249273372
+    second: Walk (16x8) 1_60
+  - first:
+      213: 6582252774292985250
+    second: Walk (16x8) 1_61
+  - first:
+      213: -2125994143591298532
+    second: Walk (16x8) 1_62
+  - first:
+      213: 701498915426590827
+    second: Walk (16x8) 1_63
+  - first:
+      213: 5556070124777901455
+    second: Walk (16x8) 1_64
+  - first:
+      213: 7564236498841826869
+    second: Walk (16x8) 1_65
+  - first:
+      213: 4075791309145365920
+    second: Walk (16x8) 1_66
+  - first:
+      213: -7159974083085798631
+    second: Walk (16x8) 1_67
+  - first:
+      213: -6048438724722766869
+    second: Walk (16x8) 1_68
+  - first:
+      213: -531895030693361191
+    second: Walk (16x8) 1_69
+  - first:
+      213: -5294401600985790823
+    second: Walk (16x8) 1_70
+  - first:
+      213: -247397344744956603
+    second: Walk (16x8) 1_71
+  - first:
+      213: -4322083599091467474
+    second: Walk (16x8) 1_72
+  - first:
+      213: -7646992855930594599
+    second: Walk (16x8) 1_73
+  - first:
+      213: -3986670430443668446
+    second: Walk (16x8) 1_74
+  - first:
+      213: 3178431436929420753
+    second: Walk (16x8) 1_75
+  - first:
+      213: 7948885740804695548
+    second: Walk (16x8) 1_76
+  - first:
+      213: -2285671240329890645
+    second: Walk (16x8) 1_77
+  - first:
+      213: -3779504880990717759
+    second: Walk (16x8) 1_78
+  - first:
+      213: -4337471079834316216
+    second: Walk (16x8) 1_79
+  - first:
+      213: 4936783737590263366
+    second: Walk (16x8) 1_80
+  - first:
+      213: -6984544493539237335
+    second: Walk (16x8) 1_81
+  - first:
+      213: 5493570189510678663
+    second: Walk (16x8) 1_82
+  - first:
+      213: 7722390254861049159
+    second: Walk (16x8) 1_83
+  - first:
+      213: 2304127866239888694
+    second: Walk (16x8) 1_84
+  - first:
+      213: 6486486518591669908
+    second: Walk (16x8) 1_85
+  - first:
+      213: -2507998916830834797
+    second: Walk (16x8) 1_86
+  - first:
+      213: 4381219927586199765
+    second: Walk (16x8) 1_87
+  - first:
+      213: 1162678359102409929
+    second: Walk (16x8) 1_88
+  - first:
+      213: -8096472287964772454
+    second: Walk (16x8) 1_89
+  - first:
+      213: 3811399100550229139
+    second: Walk (16x8) 1_90
+  - first:
+      213: 8818993579060619957
+    second: Walk (16x8) 1_91
+  - first:
+      213: 7626539483072290952
+    second: Walk (16x8) 1_92
+  - first:
+      213: -458643844797544256
+    second: Walk (16x8) 1_93
+  - first:
+      213: -3122883904066322092
+    second: Walk (16x8) 1_94
+  - first:
+      213: -8548915226992075634
+    second: Walk (16x8) 1_95
+  - first:
+      213: -3298538868547194093
+    second: Walk (16x8) 1_96
+  - first:
+      213: -6843187092211723433
+    second: Walk (16x8) 1_97
+  - first:
+      213: 259455070904328285
+    second: Walk (16x8) 1_98
+  - first:
+      213: 2892119859495407958
+    second: Walk (16x8) 1_99
+  - first:
+      213: 2603370848179980975
+    second: Walk (16x8) 1_100
+  - first:
+      213: 1405054448027057480
+    second: Walk (16x8) 1_101
+  - first:
+      213: 2362823426045106090
+    second: Walk (16x8) 1_102
+  - first:
+      213: 2411301444326712904
+    second: Walk (16x8) 1_103
+  - first:
+      213: -5297240476141971307
+    second: Walk (16x8) 1_104
+  - first:
+      213: 5983401989112713747
+    second: Walk (16x8) 1_105
+  - first:
+      213: -7466381807687024700
+    second: Walk (16x8) 1_106
+  - first:
+      213: -2771594983707807362
+    second: Walk (16x8) 1_107
+  - first:
+      213: -5691738492364403410
+    second: Walk (16x8) 1_108
+  - first:
+      213: -6734004313162787786
+    second: Walk (16x8) 1_109
+  - first:
+      213: 6082427023900460093
+    second: Walk (16x8) 1_110
+  - first:
+      213: -3023375847928973834
+    second: Walk (16x8) 1_111
+  - first:
+      213: 6671148783577268721
+    second: Walk (16x8) 1_112
+  - first:
+      213: 4124351513007884872
+    second: Walk (16x8) 1_113
+  - first:
+      213: -5071068802680495830
+    second: Walk (16x8) 1_114
+  - first:
+      213: 7102314176560072165
+    second: Walk (16x8) 1_115
+  - first:
+      213: -5989156013467758629
+    second: Walk (16x8) 1_116
+  - first:
+      213: 4655322587572086557
+    second: Walk (16x8) 1_117
+  - first:
+      213: 6837039500171761521
+    second: Walk (16x8) 1_118
+  - first:
+      213: 34259371486868639
+    second: Walk (16x8) 1_119
+  - first:
+      213: -5044687119283276269
+    second: Walk (16x8) 1_120
+  - first:
+      213: -7580209912513559768
+    second: Walk (16x8) 1_121
+  - first:
+      213: -7000955490248554773
+    second: Walk (16x8) 1_122
+  - first:
+      213: -7363298150710928049
+    second: Walk (16x8) 1_123
+  - first:
+      213: 7771307092594746097
+    second: Walk (16x8) 1_124
+  - first:
+      213: 7091021778866335797
+    second: Walk (16x8) 1_125
+  - first:
+      213: 3973176265035614653
+    second: Walk (16x8) 1_126
+  - first:
+      213: -7398242794041342396
+    second: Walk (16x8) 1_127
+  - first:
+      213: 1530323413539750862
+    second: Man1_WALK_0
+  - first:
+      213: -6029043102965114848
+    second: Man1_WALK_1
+  - first:
+      213: -1930671862432292651
+    second: Man1_WALK_2
+  - first:
+      213: 4397865342510045091
+    second: Man1_WALK_3
+  - first:
+      213: -2127811380290189481
+    second: Man1_WALK_4
+  - first:
+      213: -3990812789875695313
+    second: Man1_WALK_5
+  - first:
+      213: 1661787284978067792
+    second: Man1_WALK_6
+  - first:
+      213: 3063031541105443412
+    second: Man1_WALK_7
+  - first:
+      213: 1260656571108517876
+    second: Man1_WALK_8
+  - first:
+      213: -8127597790837124194
+    second: Man1_WALK_9
+  - first:
+      213: -7099113386858439335
+    second: Man1_WALK_10
+  - first:
+      213: 4163595200411859555
+    second: Man1_WALK_11
+  - first:
+      213: 6589810312737066439
+    second: Man1_WALK_12
+  - first:
+      213: 7625797357218868677
+    second: Man1_WALK_13
+  - first:
+      213: -1641418136250642778
+    second: Man1_WALK_14
+  - first:
+      213: -7424410415947985311
+    second: Man1_WALK_15
+  - first:
+      213: -8276309635557314218
+    second: Man1_WALK_16
+  - first:
+      213: -4129954000512060272
+    second: Man1_WALK_17
+  - first:
+      213: 292667044121678801
+    second: Man1_WALK_18
+  - first:
+      213: -7605056466018927225
+    second: Man1_WALK_19
+  - first:
+      213: -4296035102194532576
+    second: Man1_WALK_20
+  - first:
+      213: -8494675366533083872
+    second: Man1_WALK_21
+  - first:
+      213: -2596233821793394607
+    second: Man1_WALK_22
+  - first:
+      213: -6425672240559619212
+    second: Man1_WALK_23
+  - first:
+      213: -5122909361676401245
+    second: Man1_WALK_24
+  - first:
+      213: 2365060975219947809
+    second: Man1_WALK_25
+  - first:
+      213: -7765864944081013085
+    second: Man1_WALK_26
+  - first:
+      213: 4729000473533224095
+    second: Man1_WALK_27
+  - first:
+      213: -1806586041626018212
+    second: Man1_WALK_28
+  - first:
+      213: 5124979083538944456
+    second: Man1_WALK_29
+  - first:
+      213: 492863058352437997
+    second: Man1_WALK_30
+  - first:
+      213: -963585310557881629
+    second: Man1_WALK_31
+  - first:
+      213: -8419021850615614421
+    second: Man1_WALK_32
+  - first:
+      213: 1573473243724731217
+    second: Man1_WALK_33
+  - first:
+      213: -1392884026980137584
+    second: Man1_WALK_34
+  - first:
+      213: -2684831514002797779
+    second: Man1_WALK_35
+  - first:
+      213: -6727456606527786343
+    second: Man1_WALK_36
+  - first:
+      213: -4502615236828304771
+    second: Man1_WALK_37
+  - first:
+      213: -5887527618884126426
+    second: Man1_WALK_38
+  - first:
+      213: -5154976058529063819
+    second: Man1_WALK_39
+  - first:
+      213: 8413511725024465004
+    second: Man1_WALK_40
+  - first:
+      213: -4017562389313173292
+    second: Man1_WALK_41
+  - first:
+      213: 4803362630871939013
+    second: Man1_WALK_42
+  - first:
+      213: -1655243019599879884
+    second: Man1_WALK_43
+  - first:
+      213: 9049604122073066893
+    second: Man1_WALK_44
+  - first:
+      213: 6812740473797549566
+    second: Man1_WALK_45
+  - first:
+      213: -3423960390887483835
+    second: Man1_WALK_46
+  - first:
+      213: -7731129776187884752
+    second: Man1_WALK_47
+  - first:
+      213: 9077320164431894857
+    second: Man1_WALK_48
+  - first:
+      213: 8042680189731470510
+    second: Man1_WALK_49
+  - first:
+      213: 7525971320644537710
+    second: Man1_WALK_50
+  - first:
+      213: -4931202096379207181
+    second: Man1_WALK_51
+  - first:
+      213: -606137462625997075
+    second: Man1_WALK_52
+  - first:
+      213: 141836029215017947
+    second: Man1_WALK_53
+  - first:
+      213: 2671608678472282798
+    second: Man1_WALK_54
+  - first:
+      213: -5903000986838606419
+    second: Man1_WALK_55
+  - first:
+      213: 5747788894776565761
+    second: Man1_WALK_56
+  - first:
+      213: 3017028654292286993
+    second: Man1_WALK_57
+  - first:
+      213: 4602485601279706986
+    second: Man1_WALK_58
+  - first:
+      213: 7655301655438358046
+    second: Man1_WALK_59
+  - first:
+      213: 5662231889685546801
+    second: Man1_WALK_60
+  - first:
+      213: -4732154182280256423
+    second: Man1_WALK_61
+  - first:
+      213: 3559722813165305777
+    second: Man1_WALK_62
+  - first:
+      213: -8942673238193225551
+    second: Man1_WALK_63
+  - first:
+      213: -34011795848143164
+    second: Man1_WALK_64
+  - first:
+      213: 8604906058481207665
+    second: Man1_WALK_65
+  - first:
+      213: 5513064674569015738
+    second: Man1_WALK_66
+  - first:
+      213: 1387492119320289955
+    second: Man1_WALK_67
+  - first:
+      213: -6822255340021450893
+    second: Man1_WALK_68
+  - first:
+      213: -5505090138555936380
+    second: Man1_WALK_69
+  - first:
+      213: -1246682601832177818
+    second: Man1_WALK_70
+  - first:
+      213: -419613923647875488
+    second: Man1_WALK_71
+  - first:
+      213: -6291590837759550046
+    second: Man1_WALK_72
+  - first:
+      213: 1119099638989017366
+    second: Man1_WALK_73
+  - first:
+      213: 8790816602760986370
+    second: Man1_WALK_74
+  - first:
+      213: -7723984676349717566
+    second: Man1_WALK_75
+  - first:
+      213: 8680668371314208120
+    second: Man1_WALK_76
+  - first:
+      213: -8234645151212934223
+    second: Man1_WALK_77
+  - first:
+      213: -3023665873509911228
+    second: Man1_WALK_78
+  - first:
+      213: 3713206515696581340
+    second: Man1_WALK_79
+  - first:
+      213: -6929105227232253202
+    second: Man1_WALK_80
+  - first:
+      213: 7299599659878566067
+    second: Man1_WALK_81
+  - first:
+      213: 1544793111967331679
+    second: Man1_WALK_82
+  - first:
+      213: -521795999753774780
+    second: Man1_WALK_83
+  - first:
+      213: -2853532261944767133
+    second: Man1_WALK_84
+  - first:
+      213: -1653698366804011491
+    second: Man1_WALK_85
+  - first:
+      213: -8109432970629213743
+    second: Man1_WALK_86
+  - first:
+      213: 3309643571816085958
+    second: Man1_WALK_87
+  - first:
+      213: -5634619197572072788
+    second: Man1_WALK_88
+  - first:
+      213: 5100573515452993783
+    second: Man1_WALK_89
+  - first:
+      213: -2046567194572908274
+    second: Man1_WALK_90
+  - first:
+      213: 5397187254095678527
+    second: Man1_WALK_91
+  - first:
+      213: -8845836342681559119
+    second: Man1_WALK_92
+  - first:
+      213: -1212146311987816713
+    second: Man1_WALK_93
+  - first:
+      213: 6592055743679782658
+    second: Man1_WALK_94
+  - first:
+      213: 4783439400348324856
+    second: Man1_WALK_95
+  - first:
+      213: -2270041247320569945
+    second: Man1_WALK_96
+  - first:
+      213: 214789546015703611
+    second: Man1_WALK_97
+  - first:
+      213: 5949766844660107625
+    second: Man1_WALK_98
+  - first:
+      213: -3340105347389924755
+    second: Man1_WALK_99
+  - first:
+      213: 1227232415356606407
+    second: Man1_WALK_100
+  - first:
+      213: 5743479895691066531
+    second: Man1_WALK_101
+  - first:
+      213: 772812081477130261
+    second: Man1_WALK_102
+  - first:
+      213: -6812687839487011472
+    second: Man1_WALK_103
+  - first:
+      213: -8310655748388660775
+    second: Man1_WALK_104
+  - first:
+      213: 2343391968834020483
+    second: Man1_WALK_105
+  - first:
+      213: 5361084630322540100
+    second: Man1_WALK_106
+  - first:
+      213: 38799717139332089
+    second: Man1_WALK_107
+  - first:
+      213: -5996982172345302091
+    second: Man1_WALK_108
+  - first:
+      213: -7286123699341438894
+    second: Man1_WALK_109
+  - first:
+      213: -8284879882188923304
+    second: Man1_WALK_110
+  - first:
+      213: -4667276516683936360
+    second: Man1_WALK_111
+  - first:
+      213: 7227424729981849488
+    second: Man1_WALK_112
+  - first:
+      213: 6421452477154165959
+    second: Man1_WALK_113
+  - first:
+      213: 220855386168069695
+    second: Man1_WALK_114
+  - first:
+      213: -1194669486367993272
+    second: Man1_WALK_115
+  - first:
+      213: -6545843094133379596
+    second: Man1_WALK_116
+  - first:
+      213: -561462346833851416
+    second: Man1_WALK_117
+  - first:
+      213: -5704920230695530285
+    second: Man1_WALK_118
+  - first:
+      213: -6862004185611640338
+    second: Man1_WALK_119
+  - first:
+      213: 261513617275586469
+    second: Man1_WALK_120
+  - first:
+      213: 5598262017557734320
+    second: Man1_WALK_121
+  - first:
+      213: 4413682139320529414
+    second: Man1_WALK_122
+  - first:
+      213: 5944012028160983494
+    second: Man1_WALK_123
+  - first:
+      213: -1711329530294475456
+    second: Man1_WALK_124
+  - first:
+      213: 4672576553945857740
+    second: Man1_WALK_125
+  - first:
+      213: 3825060243153189607
+    second: Man1_WALK_126
+  - first:
+      213: -1253731681841412023
+    second: Man1_WALK_127
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Man1_WALK_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 549
+        width: 35
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3008f590dcc3510800000000000000
+      internalID: 1530323413539750862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 551
+        width: 33
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028de38bd39845ca0800000000000000
+      internalID: -6029043102965114848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 553
+        width: 32
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0a1e59b20e435e0800000000000000
+      internalID: -1930671862432292651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 553
+        width: 32
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a710566a3b580d30800000000000000
+      internalID: 4397865342510045091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 554
+        width: 35
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75705c0c2de7872e0800000000000000
+      internalID: -2127811380290189481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 551
+        width: 37
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21af5e69e8cd98c0800000000000000
+      internalID: -3990812789875695313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 552
+        width: 36
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059e06d2bbadf0710800000000000000
+      internalID: 1661787284978067792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 553
+        width: 35
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452486f35f2128a20800000000000000
+      internalID: 3063031541105443412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 554
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f76fa0e870ce7110800000000000000
+      internalID: 1260656571108517876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 555
+        width: 34
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9357effed8f43f80800000000000000
+      internalID: -8127597790837124194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 553
+        width: 37
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d1514ccf1ea7d90800000000000000
+      internalID: -7099113386858439335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_11
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 549
+        width: 38
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36af11d66cf08c930800000000000000
+      internalID: 4163595200411859555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_12
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 547
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd06eba095b37b50800000000000000
+      internalID: 6589810312737066439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 545
+        width: 39
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cda42e0b4644d960800000000000000
+      internalID: 7625797357218868677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_14
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 546
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae85e4d6e28839e0800000000000000
+      internalID: -1641418136250642778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 479
+        width: 37
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ec5ba101237f890800000000000000
+      internalID: -7424410415947985311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 483
+        width: 33
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651b6797c34a42d80800000000000000
+      internalID: -8276309635557314218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 481
+        width: 33
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09476ccc7b47fa6c0800000000000000
+      internalID: -4129954000512060272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 479
+        width: 36
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d316524023cf0400800000000000000
+      internalID: 292667044121678801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 479
+        width: 39
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d772eff69657690800000000000000
+      internalID: -7605056466018927225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 477
+        width: 39
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ff51ff5da6164c0800000000000000
+      internalID: -4296035102194532576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 477
+        width: 40
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dc887c2c9dc1a80800000000000000
+      internalID: -8494675366533083872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_22
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 478
+        width: 39
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1506622381358fbd0800000000000000
+      internalID: -2596233821793394607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 479
+        width: 38
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4730b52542d63d6a0800000000000000
+      internalID: -6425672240559619212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_24
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 481
+        width: 36
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a541c0f315c7e8b0800000000000000
+      internalID: -5122909361676401245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_25
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 484
+        width: 34
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129bf142d6262d020800000000000000
+      internalID: 2365060975219947809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_26
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 485
+        width: 32
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6746a8afa1a3490800000000000000
+      internalID: -7765864944081013085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_27
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 484
+        width: 33
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f941a9710e8c0a140800000000000000
+      internalID: 4729000473533224095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_28
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 483
+        width: 36
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eb3bc1197bde6e0800000000000000
+      internalID: -1806586041626018212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_29
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 482
+        width: 38
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c155abb2559f1740800000000000000
+      internalID: 5124979083538944456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 415
+        width: 37
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea720c175007d600800000000000000
+      internalID: 492863058352437997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 417
+        width: 34
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eab96de348a0a2f0800000000000000
+      internalID: -963585310557881629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_32
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 412
+        width: 35
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24fdc59b30a92b80800000000000000
+      internalID: -8419021850615614421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_33
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 415
+        width: 33
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1535bcb149916d510800000000000000
+      internalID: 1573473243724731217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_34
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 416
+        width: 32
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09588867b5b7bace0800000000000000
+      internalID: -1392884026980137584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_35
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 416
+        width: 32
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bc61e76ff8dbad0800000000000000
+      internalID: -2684831514002797779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_36
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 414
+        width: 35
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9927e062cd543a2a0800000000000000
+      internalID: -6727456606527786343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 414
+        width: 37
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a66984c4f7381c0800000000000000
+      internalID: -4502615236828304771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_38
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 416
+        width: 36
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6293c17f2dc4b4ea0800000000000000
+      internalID: -5887527618884126426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_39
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 416
+        width: 35
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c5bb54698d578b0800000000000000
+      internalID: -5154976058529063819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_40
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 415
+        width: 35
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60daa3565cc2c470800000000000000
+      internalID: 8413511725024465004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_41
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 414
+        width: 34
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8c40afa40ce38c0800000000000000
+      internalID: -4017562389313173292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_42
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 412
+        width: 36
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7f18c0dd8f8a240800000000000000
+      internalID: 4803362630871939013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_43
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 411
+        width: 38
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431edc75e356709e0800000000000000
+      internalID: -1655243019599879884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_44
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 410
+        width: 39
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d631e8007a69d70800000000000000
+      internalID: 9049604122073066893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 341
+        width: 39
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd11af8d57bb8e50800000000000000
+      internalID: 6812740473797549566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 341
+        width: 39
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546d4285a26ab70d0800000000000000
+      internalID: -3423960390887483835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_47
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 343
+        width: 37
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b30e90e6285b490800000000000000
+      internalID: -7731129776187884752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_48
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 350
+        width: 33
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9491479889e19fd70800000000000000
+      internalID: 9077320164431894857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_49
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 351
+        width: 33
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacf30745075d9f60800000000000000
+      internalID: 8042680189731470510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_50
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 348
+        width: 36
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d8bc4ba0f917860800000000000000
+      internalID: 7525971320644537710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_51
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 345
+        width: 39
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1e7a9e1d9d09bb0800000000000000
+      internalID: -4931202096379207181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_52
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 343
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeee1f60319697f0800000000000000
+      internalID: -606137462625997075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_53
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 342
+        width: 40
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb86b9fd17e7f100800000000000000
+      internalID: 141836029215017947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_54
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 343
+        width: 39
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2f03330f5731520800000000000000
+      internalID: 2671608678472282798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_55
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 344
+        width: 38
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad54beb0e3541ea0800000000000000
+      internalID: -5903000986838606419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_56
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 345
+        width: 37
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100a715fb8f34cf40800000000000000
+      internalID: 5747788894776565761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_57
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 346
+        width: 35
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e34408393aed920800000000000000
+      internalID: 3017028654292286993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_58
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 348
+        width: 33
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a678024f4405fdf30800000000000000
+      internalID: 4602485601279706986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_59
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 349
+        width: 33
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16fcdccb481d3a60800000000000000
+      internalID: 7655301655438358046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 280
+        width: 36
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137889467e9449e40800000000000000
+      internalID: 5662231889685546801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_61
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 278
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9546eced7d2045eb0800000000000000
+      internalID: -4732154182280256423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_62
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 279
+        width: 37
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf7291d90da66130800000000000000
+      internalID: 3559722813165305777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 280
+        width: 34
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0c917f11e35e380800000000000000
+      internalID: -8942673238193225551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_64
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 279
+        width: 36
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce5c4ea37a278ff0800000000000000
+      internalID: -34011795848143164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_65
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 282
+        width: 36
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179016d2874ca6770800000000000000
+      internalID: 8604906058481207665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_66
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 282
+        width: 38
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1d07fac17528c40800000000000000
+      internalID: 5513064674569015738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_67
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 278
+        width: 38
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a26db43bbc514310800000000000000
+      internalID: 1387492119320289955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_68
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 276
+        width: 37
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37772030aea7251a0800000000000000
+      internalID: -6822255340021450893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_69
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 275
+        width: 37
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4811edaafadf993b0800000000000000
+      internalID: -5505090138555936380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_70
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 276
+        width: 37
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f122267c4e2bee0800000000000000
+      internalID: -1246682601832177818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_71
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 277
+        width: 37
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06619221c5b3d2af0800000000000000
+      internalID: -419613923647875488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_72
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 279
+        width: 38
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad5d33a777cfa8a0800000000000000
+      internalID: -6291590837759550046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_73
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 281
+        width: 38
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61155324137d78f00800000000000000
+      internalID: 1119099638989017366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_74
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 282
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fbc2ddf114ff970800000000000000
+      internalID: 8790816602760986370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_75
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 209
+        width: 38
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c35d9b3cd4eec490800000000000000
+      internalID: -7723984676349717566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 206
+        width: 37
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87de62d34ede77870800000000000000
+      internalID: 8680668371314208120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_77
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 206
+        width: 36
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb6f8e2dd9a8bd80800000000000000
+      internalID: -8234645151212934223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_78
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 206
+        width: 35
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44578f978e7c906d0800000000000000
+      internalID: -3023665873509911228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_79
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 208
+        width: 36
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdab2c117a5f78330800000000000000
+      internalID: 3713206515696581340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_80
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 210
+        width: 33
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeae48ff18fd6df90800000000000000
+      internalID: -6929105227232253202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_81
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 210
+        width: 26
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8cf9937336d4560800000000000000
+      internalID: 7299599659878566067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_82
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 210
+        width: 29
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5578429625307510800000000000000
+      internalID: 1544793111967331679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_83
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 210
+        width: 32
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449d4758d4532c8f0800000000000000
+      internalID: -521795999753774780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_84
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 210
+        width: 37
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d4aa3c6873668d0800000000000000
+      internalID: -2853532261944767133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_85
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 211
+        width: 41
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16d009d812ec09e0800000000000000
+      internalID: -1653698366804011491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_86
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 211
+        width: 38
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d11ec7cda1857f80800000000000000
+      internalID: -8109432970629213743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_87
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 211
+        width: 36
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9b0471b473eed20800000000000000
+      internalID: 3309643571816085958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_88
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 212
+        width: 32
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caabe1c71bfcdc1b0800000000000000
+      internalID: -5634619197572072788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_89
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 212
+        width: 28
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0575b9690e8c640800000000000000
+      internalID: 5100573515452993783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_90
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 144
+        width: 26
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09938ecaf12993e0800000000000000
+      internalID: -2046567194572908274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_91
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 145
+        width: 32
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c83aa4639a6ea40800000000000000
+      internalID: 5397187254095678527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_92
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 144
+        width: 38
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf993da6b64d3580800000000000000
+      internalID: -8845836342681559119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_93
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 142
+        width: 41
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f69a2af9579d2fe0800000000000000
+      internalID: -1212146311987816713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_94
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 142
+        width: 40
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f5b9dc5cfab7b50800000000000000
+      internalID: 6592055743679782658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_95
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 142
+        width: 37
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f39e567ac0326240800000000000000
+      internalID: 4783439400348324856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_96
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 141
+        width: 36
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a709f343813f70e0800000000000000
+      internalID: -2270041247320569945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_97
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 142
+        width: 36
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32cbbf34f51bf200800000000000000
+      internalID: 214789546015703611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_98
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 140
+        width: 38
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969cc580c61d19250800000000000000
+      internalID: 5949766844660107625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_99
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 139
+        width: 38
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ad07812ef85a1d0800000000000000
+      internalID: -3340105347389924755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_100
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 137
+        width: 37
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7dc2e2161080110800000000000000
+      internalID: 1227232415356606407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_101
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 136
+        width: 36
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac734de880f4bf40800000000000000
+      internalID: 5743479895691066531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_102
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 138
+        width: 37
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518139a5e7499ba00800000000000000
+      internalID: 772812081477130261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_103
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 141
+        width: 36
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075d0c151887471a0800000000000000
+      internalID: -6812687839487011472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_104
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 143
+        width: 37
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d95cbae0ae9aac80800000000000000
+      internalID: -8310655748388660775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_105
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 75
+        width: 38
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384eadf6496658020800000000000000
+      internalID: 2343391968834020483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_106
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 73
+        width: 37
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e6e292116666a40800000000000000
+      internalID: 5361084630322540100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_107
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 72
+        width: 38
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbb97d1328d98000800000000000000
+      internalID: 38799717139332089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_108
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 69
+        width: 37
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b30205dc7076cca0800000000000000
+      internalID: -5996982172345302091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_109
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 68
+        width: 36
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250d237591d72ea90800000000000000
+      internalID: -7286123699341438894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_110
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 70
+        width: 35
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e595f64a1360d80800000000000000
+      internalID: -8284879882188923304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_111
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 72
+        width: 36
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d08828cb08a3fb0800000000000000
+      internalID: -4667276516683936360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_112
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 77
+        width: 33
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f0177df78fc4460800000000000000
+      internalID: 7227424729981849488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_113
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 76
+        width: 28
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c483d271059d1950800000000000000
+      internalID: 6421452477154165959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_114
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 76
+        width: 29
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e8747bdc2a01300800000000000000
+      internalID: 220855386168069695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_115
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 76
+        width: 32
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84299098e6eab6fe0800000000000000
+      internalID: -1194669486367993272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_116
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 75
+        width: 37
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd6cb2236e7825a0800000000000000
+      internalID: -6545843094133379596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_117
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 74
+        width: 41
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb063668f84538f0800000000000000
+      internalID: -561462346833851416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_118
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 74
+        width: 38
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d01471b64d04d0b0800000000000000
+      internalID: -5704920230695530285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_119
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 74
+        width: 36
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1ef55bc8345c0a0800000000000000
+      internalID: -6862004185611640338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 32
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a783a5df3511a300800000000000000
+      internalID: 261513617275586469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_121
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 6
+        width: 27
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b32714e4a501bd40800000000000000
+      internalID: 5598262017557734320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_122
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 6
+        width: 26
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602bfa1658c804d30800000000000000
+      internalID: 4413682139320529414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_123
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 6
+        width: 33
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c14f27627f5d7250800000000000000
+      internalID: 5944012028160983494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_124
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 6
+        width: 38
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0456925fbd22048e0800000000000000
+      internalID: -1711329530294475456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_125
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 7
+        width: 41
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccef2c39e9358d040800000000000000
+      internalID: 4672576553945857740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_126
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 40
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea7d9d6608551530800000000000000
+      internalID: 3825060243153189607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Man1_WALK_127
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 8
+        width: 37
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948803c8da9d99ee0800000000000000
+      internalID: -1253731681841412023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a0d68005bf69303429b487f48ccdfa2d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2996 @@
+fileFormatVersion: 2
+guid: 5e60ad2088a1538449d3557739527b89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -492533419070999570
+    second: Neutral (15x8)_0
+  - first:
+      213: -4910521920125278744
+    second: Neutral (15x8)_1
+  - first:
+      213: 5359346014093206284
+    second: Neutral (15x8)_2
+  - first:
+      213: -886160358258654184
+    second: Neutral (15x8)_3
+  - first:
+      213: -2014507121647409265
+    second: Neutral (15x8)_4
+  - first:
+      213: -4354545627884587378
+    second: Neutral (15x8)_5
+  - first:
+      213: 767986477093062960
+    second: Neutral (15x8)_6
+  - first:
+      213: 1023787497763168888
+    second: Neutral (15x8)_7
+  - first:
+      213: 2811584752310915375
+    second: Neutral (15x8)_8
+  - first:
+      213: 6078778588612781200
+    second: Neutral (15x8)_9
+  - first:
+      213: 7832692642453352898
+    second: Neutral (15x8)_10
+  - first:
+      213: -3721668045202167905
+    second: Neutral (15x8)_11
+  - first:
+      213: 2846078523971032873
+    second: Neutral (15x8)_12
+  - first:
+      213: 8094036039601408566
+    second: Neutral (15x8)_13
+  - first:
+      213: -7635846556919722240
+    second: Neutral (15x8)_14
+  - first:
+      213: -6742149052338265141
+    second: Neutral (15x8)_15
+  - first:
+      213: 7376099066247017087
+    second: Neutral (15x8)_16
+  - first:
+      213: -8311781368970645052
+    second: Neutral (15x8)_17
+  - first:
+      213: -1674455490225459049
+    second: Neutral (15x8)_18
+  - first:
+      213: 3834213260603507255
+    second: Neutral (15x8)_19
+  - first:
+      213: -2619061997702299799
+    second: Neutral (15x8)_20
+  - first:
+      213: -2916517175725258472
+    second: Neutral (15x8)_21
+  - first:
+      213: 5507553346953358074
+    second: Neutral (15x8)_22
+  - first:
+      213: -5967641852498748428
+    second: Neutral (15x8)_23
+  - first:
+      213: 7377359826907979195
+    second: Neutral (15x8)_24
+  - first:
+      213: -4469455689578362234
+    second: Neutral (15x8)_25
+  - first:
+      213: 7683012223521620119
+    second: Neutral (15x8)_26
+  - first:
+      213: 6308641865045704537
+    second: Neutral (15x8)_27
+  - first:
+      213: -6350849329416174524
+    second: Neutral (15x8)_28
+  - first:
+      213: 3651370786115261227
+    second: Neutral (15x8)_29
+  - first:
+      213: -5925663833568074464
+    second: Neutral (15x8)_30
+  - first:
+      213: -6016329782275338771
+    second: Neutral (15x8)_31
+  - first:
+      213: 57803442136291556
+    second: Neutral (15x8)_32
+  - first:
+      213: 4417455192628595458
+    second: Neutral (15x8)_33
+  - first:
+      213: 5400438631082579333
+    second: Neutral (15x8)_34
+  - first:
+      213: 8965310338790289384
+    second: Neutral (15x8)_35
+  - first:
+      213: 8138562673538319937
+    second: Neutral (15x8)_36
+  - first:
+      213: 3377635618345171593
+    second: Neutral (15x8)_37
+  - first:
+      213: -3676047173451123923
+    second: Neutral (15x8)_38
+  - first:
+      213: -7957926714873310963
+    second: Neutral (15x8)_39
+  - first:
+      213: 1967139919912748122
+    second: Neutral (15x8)_40
+  - first:
+      213: 3778132269859528458
+    second: Neutral (15x8)_41
+  - first:
+      213: -3920969656207293727
+    second: Neutral (15x8)_42
+  - first:
+      213: 7202812420779835957
+    second: Neutral (15x8)_43
+  - first:
+      213: 7929524067751657468
+    second: Neutral (15x8)_44
+  - first:
+      213: 2245652794409017066
+    second: Neutral (15x8)_45
+  - first:
+      213: -4233856505440831211
+    second: Neutral (15x8)_46
+  - first:
+      213: 8410538414651651853
+    second: Neutral (15x8)_47
+  - first:
+      213: 1055215288463789451
+    second: Neutral (15x8)_48
+  - first:
+      213: 3487817367846870554
+    second: Neutral (15x8)_49
+  - first:
+      213: -5563800030172308050
+    second: Neutral (15x8)_50
+  - first:
+      213: 5057392678646889927
+    second: Neutral (15x8)_51
+  - first:
+      213: 7310016543922185571
+    second: Neutral (15x8)_52
+  - first:
+      213: -8572027555798467878
+    second: Neutral (15x8)_53
+  - first:
+      213: 8821167098765371184
+    second: Neutral (15x8)_54
+  - first:
+      213: -676862316698230779
+    second: Neutral (15x8)_55
+  - first:
+      213: -8766474268500225858
+    second: Neutral (15x8)_56
+  - first:
+      213: 5146921665752696253
+    second: Neutral (15x8)_57
+  - first:
+      213: 1309563103974203793
+    second: Neutral (15x8)_58
+  - first:
+      213: 2696239267034883757
+    second: Neutral (15x8)_59
+  - first:
+      213: 3433029073113649128
+    second: Neutral (15x8)_60
+  - first:
+      213: 7802692813647662446
+    second: Neutral (15x8)_61
+  - first:
+      213: 5850973318217109551
+    second: Neutral (15x8)_62
+  - first:
+      213: 2718305035296169499
+    second: Neutral (15x8)_63
+  - first:
+      213: -8278873890392376430
+    second: Neutral (15x8)_64
+  - first:
+      213: -149661976385844617
+    second: Neutral (15x8)_65
+  - first:
+      213: 4466444807655547238
+    second: Neutral (15x8)_66
+  - first:
+      213: 1136013661681146754
+    second: Neutral (15x8)_67
+  - first:
+      213: -2749898544938047089
+    second: Neutral (15x8)_68
+  - first:
+      213: -1335880332064041061
+    second: Neutral (15x8)_69
+  - first:
+      213: -4412359761201038507
+    second: Neutral (15x8)_70
+  - first:
+      213: 7774286546228526263
+    second: Neutral (15x8)_71
+  - first:
+      213: 7722981299846855072
+    second: Neutral (15x8)_72
+  - first:
+      213: -4251864348617629977
+    second: Neutral (15x8)_73
+  - first:
+      213: 8639778634032036951
+    second: Neutral (15x8)_74
+  - first:
+      213: -3551461737435621158
+    second: Neutral (15x8)_75
+  - first:
+      213: -2882618649349421896
+    second: Neutral (15x8)_76
+  - first:
+      213: -154795825676547213
+    second: Neutral (15x8)_77
+  - first:
+      213: 5382202802188056526
+    second: Neutral (15x8)_78
+  - first:
+      213: 2440624419324973266
+    second: Neutral (15x8)_79
+  - first:
+      213: 2569186019999888820
+    second: Neutral (15x8)_80
+  - first:
+      213: 244961663485489807
+    second: Neutral (15x8)_81
+  - first:
+      213: -7046434087839793248
+    second: Neutral (15x8)_82
+  - first:
+      213: -5805730708505391743
+    second: Neutral (15x8)_83
+  - first:
+      213: 7431243634996832195
+    second: Neutral (15x8)_84
+  - first:
+      213: 5322464734249468762
+    second: Neutral (15x8)_85
+  - first:
+      213: -1021886248460048440
+    second: Neutral (15x8)_86
+  - first:
+      213: 8221202532159369627
+    second: Neutral (15x8)_87
+  - first:
+      213: -4515505455216001787
+    second: Neutral (15x8)_88
+  - first:
+      213: 8315810170380311286
+    second: Neutral (15x8)_89
+  - first:
+      213: -2091862601783039994
+    second: Neutral (15x8)_90
+  - first:
+      213: 5553443096950972338
+    second: Neutral (15x8)_91
+  - first:
+      213: -8707784310207856941
+    second: Neutral (15x8)_92
+  - first:
+      213: -2558635200001373919
+    second: Neutral (15x8)_93
+  - first:
+      213: -4849732262333625324
+    second: Neutral (15x8)_94
+  - first:
+      213: -5492030183272881163
+    second: Neutral (15x8)_95
+  - first:
+      213: -8600862203370378925
+    second: Neutral (15x8)_96
+  - first:
+      213: 4458492024952902520
+    second: Neutral (15x8)_97
+  - first:
+      213: -4185143292962136602
+    second: Neutral (15x8)_98
+  - first:
+      213: 2098182009474330709
+    second: Neutral (15x8)_99
+  - first:
+      213: 8849439055533855851
+    second: Neutral (15x8)_100
+  - first:
+      213: -7579932097989827177
+    second: Neutral (15x8)_101
+  - first:
+      213: -4007971933844595835
+    second: Neutral (15x8)_102
+  - first:
+      213: 1653764737538162127
+    second: Neutral (15x8)_103
+  - first:
+      213: -2037596093005232912
+    second: Neutral (15x8)_104
+  - first:
+      213: -3875564819975786174
+    second: Neutral (15x8)_105
+  - first:
+      213: 364308295670783824
+    second: Neutral (15x8)_106
+  - first:
+      213: -3132739801218286250
+    second: Neutral (15x8)_107
+  - first:
+      213: 7644327624979796238
+    second: Neutral (15x8)_108
+  - first:
+      213: -382517728421041683
+    second: Neutral (15x8)_109
+  - first:
+      213: -2676324260276481517
+    second: Neutral (15x8)_110
+  - first:
+      213: 2031340298113017898
+    second: Neutral (15x8)_111
+  - first:
+      213: 1881895683815475879
+    second: Neutral (15x8)_112
+  - first:
+      213: -8154545803808482673
+    second: Neutral (15x8)_113
+  - first:
+      213: 1788006777265676102
+    second: Neutral (15x8)_114
+  - first:
+      213: 1209337133093771816
+    second: Neutral (15x8)_115
+  - first:
+      213: -8086349890440000994
+    second: Neutral (15x8)_116
+  - first:
+      213: 2552127355879564417
+    second: Neutral (15x8)_117
+  - first:
+      213: -8713235119225523063
+    second: Neutral (15x8)_118
+  - first:
+      213: -1779694036580208804
+    second: Neutral (15x8)_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neutral (15x8)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3b344077b2a29f0800000000000000
+      internalID: -492533419070999570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 462
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5e929a4525adbb0800000000000000
+      internalID: -4910521920125278744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 462
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c036e660ec8306a40800000000000000
+      internalID: 5359346014093206284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 462
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814c5f769d9b3b3f0800000000000000
+      internalID: -886160358258654184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 462
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8726b832780b04e0800000000000000
+      internalID: -2014507121647409265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 462
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8675b3a2db8193c0800000000000000
+      internalID: -4354545627884587378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 462
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0398f67c1af68aa00800000000000000
+      internalID: 767986477093062960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 462
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872e8a11e49353e00800000000000000
+      internalID: 1023787497763168888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 462
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2195619f61c40720800000000000000
+      internalID: 2811584752310915375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 462
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094e38a6be82c5450800000000000000
+      internalID: 6078778588612781200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 462
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c17f3c757053bc60800000000000000
+      internalID: 7832692642453352898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 462
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f976dc191aaf95cc0800000000000000
+      internalID: -3721668045202167905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 462
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9275920a65d4f7720800000000000000
+      internalID: 2846078523971032873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_13
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 462
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ac6abd4eac35070800000000000000
+      internalID: 8094036039601408566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_14
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 462
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f096f4306080690800000000000000
+      internalID: -7635846556919722240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc324a888231f62a0800000000000000
+      internalID: -6742149052338265141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 396
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f727ebf350b2d5660800000000000000
+      internalID: 7376099066247017087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 396
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c17bc3f1ee96ac80800000000000000
+      internalID: -8311781368970645052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 396
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790b8e07a9323c8e0800000000000000
+      internalID: -1674455490225459049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 396
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7324d5f55acd53530800000000000000
+      internalID: 3834213260603507255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 396
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fba3e4df837abd0800000000000000
+      internalID: -2619061997702299799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 396
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819029fb4137687d0800000000000000
+      internalID: -2916517175725258472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_22
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 396
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa2baab692ce6c40800000000000000
+      internalID: 5507553346953358074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 396
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbde036a5dae2da0800000000000000
+      internalID: -5967641852498748428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_24
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 396
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd5617fca5a16660800000000000000
+      internalID: 7377359826907979195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 396
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a45530bbd49f1c0800000000000000
+      internalID: -4469455689578362234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_26
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 396
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7908df339ea8f9a60800000000000000
+      internalID: 7683012223521620119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 396
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ff4350a5ccc8750800000000000000
+      internalID: 6308641865045704537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_28
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 396
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4440f12ee204dd7a0800000000000000
+      internalID: -6350849329416174524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 396
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2393a952664ca230800000000000000
+      internalID: 3651370786115261227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025abcd8320d3cda0800000000000000
+      internalID: -5925663833568074464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 330
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded00eb50f3b18ca0800000000000000
+      internalID: -6016329782275338771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 330
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e81453aceb5dc000800000000000000
+      internalID: 57803442136291556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 330
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b05dfc714fd4d30800000000000000
+      internalID: 4417455192628595458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 330
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58559fc725632fa40800000000000000
+      internalID: 5400438631082579333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_35
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 330
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef6bbcb04e2b6c70800000000000000
+      internalID: 8965310338790289384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 330
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1464182b1abf1f070800000000000000
+      internalID: 8138562673538319937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_37
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 330
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98abb2c03b5cfde20800000000000000
+      internalID: 3377635618345171593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 330
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23fdd0829e0cfcc0800000000000000
+      internalID: -3676047173451123923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_39
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 330
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d019263d0d3cf8190800000000000000
+      internalID: -7957926714873310963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_40
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 330
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54c3e5b55fac4b10800000000000000
+      internalID: 1967139919912748122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_41
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 330
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fda63384f9e6430800000000000000
+      internalID: 3778132269859528458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_42
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 330
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2cda23fdae599c0800000000000000
+      internalID: -3920969656207293727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_43
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 330
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5328a5c0cb785f360800000000000000
+      internalID: 7202812420779835957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_44
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 330
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff7f3090245b0e60800000000000000
+      internalID: 7929524067751657468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeedc9b81592a2f10800000000000000
+      internalID: 2245652794409017066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_46
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 264
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519f833b0f15e35c0800000000000000
+      internalID: -4233856505440831211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_47
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 264
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07b61f802c38b470800000000000000
+      internalID: 8410538414651651853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_48
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 264
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d027ec6b0e4ae00800000000000000
+      internalID: 1055215288463789451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_49
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 264
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e53f3ba67376030800000000000000
+      internalID: 3487817367846870554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_50
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 264
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead9540d95969c2b0800000000000000
+      internalID: -5563800030172308050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_51
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 264
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdb86498d77f2640800000000000000
+      internalID: 5057392678646889927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_52
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 264
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365e5ba0155627560800000000000000
+      internalID: 7310016543922185571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_53
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 264
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adab5c3ca5a0a0980800000000000000
+      internalID: -8572027555798467878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_54
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 264
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037e5426db41b6a70800000000000000
+      internalID: 8821167098765371184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 264
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500aa532f4d4b96f0800000000000000
+      internalID: -676862316698230779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_56
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 264
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0117d791a375680800000000000000
+      internalID: -8766474268500225858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_57
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 264
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db583f54cf98d6740800000000000000
+      internalID: 5146921665752696253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_58
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 264
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191275764b08c2210800000000000000
+      internalID: 1309563103974203793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_59
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 264
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6e21df357fa6520800000000000000
+      internalID: 2696239267034883757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef0786c0c194af20800000000000000
+      internalID: 3433029073113649128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 198
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d46f806cbb84c60800000000000000
+      internalID: 7802692813647662446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 198
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f209e9eab35d23150800000000000000
+      internalID: 5850973318217109551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 198
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1edbf3070c59b520800000000000000
+      internalID: 2718305035296169499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 198
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bf7ee5f088b1d80800000000000000
+      internalID: -8278873890392376430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 198
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a8325b93b4cedf0800000000000000
+      internalID: -149661976385844617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 198
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661623963effbfd30800000000000000
+      internalID: 4466444807655547238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_67
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 198
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bde7c086ee3cf00800000000000000
+      internalID: 1136013661681146754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_68
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 198
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89aa9cc7d566d9d0800000000000000
+      internalID: -2749898544938047089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_69
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 198
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9754e07aeff57de0800000000000000
+      internalID: -1335880332064041061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_70
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 198
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b7264cc2624c2c0800000000000000
+      internalID: -4412359761201038507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_71
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 198
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcbc028c60d3eb60800000000000000
+      internalID: 7774286546228526263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_72
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 198
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a93b58f29a8d2b60800000000000000
+      internalID: 7722981299846855072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_73
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 198
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee9f7bf6e75ef4c0800000000000000
+      internalID: -4251864348617629977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_74
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 198
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c3d7364e8a6e770800000000000000
+      internalID: 8639778634032036951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad812c2cd5ca6bec0800000000000000
+      internalID: -3551461737435621158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_76
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 132
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b48c967c91eef7d0800000000000000
+      internalID: -2882618649349421896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_77
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 132
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b06d5440e0addf0800000000000000
+      internalID: -154795825676547213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_78
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 132
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7f785beec61ba40800000000000000
+      internalID: 5382202802188056526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_79
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 132
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d052087af6ded120800000000000000
+      internalID: 2440624419324973266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_80
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 132
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b53ef3b21597a320800000000000000
+      internalID: 2569186019999888820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_81
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 132
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8234a7c557466300800000000000000
+      internalID: 244961663485489807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_82
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 132
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0affa1dd789063e90800000000000000
+      internalID: -7046434087839793248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_83
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 132
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d85f14ea6ed6fa0800000000000000
+      internalID: -5805730708505391743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_84
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 132
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c76e5fa6b4112760800000000000000
+      internalID: 7431243634996832195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_85
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 132
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53cb76e9713dd940800000000000000
+      internalID: 5322464734249468762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_86
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 132
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7aea70fd781d1f0800000000000000
+      internalID: -1021886248460048440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_87
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 132
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91b6eb2524971270800000000000000
+      internalID: 8221202532159369627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_88
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 132
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50df28076b3b551c0800000000000000
+      internalID: -4515505455216001787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_89
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 132
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa59197a41b76370800000000000000
+      internalID: 8315810170380311286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6082ccdfb0638f2e0800000000000000
+      internalID: -2091862601783039994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_91
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 66
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf9b12c21bc11d40800000000000000
+      internalID: 5553443096950972338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_92
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 66
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de37514e4cb72780800000000000000
+      internalID: -8707784310207856941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_93
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 66
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1298b1287d6ed7cd0800000000000000
+      internalID: -2558635200001373919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_94
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 66
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c4adfc33a42bcb0800000000000000
+      internalID: -4849732262333625324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_95
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 66
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3eb4675a368c3b0800000000000000
+      internalID: -5492030183272881163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_96
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 66
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3596606356993a880800000000000000
+      internalID: -8600862203370378925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_97
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 66
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873da35efdebfdd30800000000000000
+      internalID: 4458492024952902520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_98
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 66
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed12e059526be5c0800000000000000
+      internalID: -4185143292962136602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_99
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 66
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55035d4cb6d3e1d10800000000000000
+      internalID: 2098182009474330709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_100
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 66
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6450964fe58fca70800000000000000
+      internalID: 8849439055533855851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_101
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 66
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7952cb5caebaec690800000000000000
+      internalID: -7579932097989827177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_102
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 66
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b1575e2c2d068c0800000000000000
+      internalID: -4007971933844595835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_103
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 66
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd770b444a53f610800000000000000
+      internalID: 1653764737538162127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_104
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 66
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f403b8262109b3e0800000000000000
+      internalID: -2037596093005232912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241b751745a373ac0800000000000000
+      internalID: -3875564819975786174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_106
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f5f28f6784e0500800000000000000
+      internalID: 364308295670783824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_107
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65df7aeafb54684d0800000000000000
+      internalID: -3132739801218286250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_108
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0150a9397b161a60800000000000000
+      internalID: 7644327624979796238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_109
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9ac25172601baf0800000000000000
+      internalID: -382517728421041683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_110
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312d57ad349cbdad0800000000000000
+      internalID: -2676324260276481517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_111
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2866f61d35c03c10800000000000000
+      internalID: 2031340298113017898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_112
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa892a5726dd1a10800000000000000
+      internalID: 1881895683815475879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_113
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ad75bcbcb35de80800000000000000
+      internalID: -8154545803808482673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_114
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f59eec0b640d810800000000000000
+      internalID: 1788006777265676102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_115
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a5eb717bd68c010800000000000000
+      internalID: 1209337133093771816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_116
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a0ec23e9387cf80800000000000000
+      internalID: -8086349890440000994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_117
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18422c4fe4afa6320800000000000000
+      internalID: 2552127355879564417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_118
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984ba12e2de541780800000000000000
+      internalID: -8713235119225523063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neutral (15x8)_119
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f61c4f3b14d47e0800000000000000
+      internalID: -1779694036580208804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4d3f43ae317b8fe47bd75d06b9be32a8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
